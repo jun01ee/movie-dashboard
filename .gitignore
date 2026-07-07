@@ -1,0 +1,11 @@
+.env
+.DS_Store
+__pycache__/
+.pytest_cache/
+.codex_tmp/
+
+data/raw/
+
+*.pbix
+*.pbit
+*.tmp
