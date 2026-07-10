@@ -1,0 +1,1512 @@
+movie_key,person_name,tmdb_person_id,department,job,tmdb_credit_id
+mov_tmdb_10193,Lee Unkrich,8,Directing,Director,52fe433f9251416c75009141
+mov_tmdb_12155,Tim Burton,510,Directing,Director,52fe44c09251416c7503fb1d
+mov_tmdb_12444,David Yates,11343,Directing,Director,52fe44e19251416c750442ff
+mov_tmdb_27205,Christopher Nolan,525,Directing,Director,5e83ac2ee33f830018359a00
+mov_tmdb_10192,Mike Mitchell,64151,Directing,Director,52fe433f9251416c750090bf
+mov_tmdb_24021,David Slade,27571,Directing,Director,52fe447cc3a368484e025f4b
+mov_tmdb_10138,Jon Favreau,15277,Directing,Director,52fe43329251416c750072b1
+mov_tmdb_38757,Nathan Greno,121830,Directing,Director,52fe46db9251416c910620ad
+mov_tmdb_38757,Byron Howard,76595,Directing,Director,52fe46db9251416c910620bf
+mov_tmdb_20352,Pierre Coffin,124747,Directing,Director,52fe43e3c3a368484e003e95
+mov_tmdb_20352,Chris Renaud,124748,Directing,Director,52fe43e3c3a368484e003e9b
+mov_tmdb_10191,Dean DeBlois,69797,Directing,Director,52fe433e9251416c7500902d
+mov_tmdb_10191,Chris Sanders,66193,Directing,Director,52fe433e9251416c75009033
+mov_tmdb_18823,Louis Leterrier,18865,Directing,Director,52fe479e9251416c7509fe4b
+mov_tmdb_10140,Michael Apted,10781,Directing,Director,52fe43349251416c7500761d
+mov_tmdb_45269,Tom Hooper,70500,Directing,Director,52fe46b9c3a36847f810ebeb
+mov_tmdb_20526,Joseph Kosinski,86270,Directing,Director,52fe43eac3a368484e005c87
+mov_tmdb_38575,Harald Zwart,21981,Directing,Director,52fe46c79251416c9105f63b
+mov_tmdb_9543,Mike Newell,10723,Directing,Director,52fe4507c3a36847f80b80d3
+mov_tmdb_44214,Darren Aronofsky,6431,Directing,Director,52fe467ec3a36847f810214d
+mov_tmdb_38055,Tom McGrath,18864,Directing,Director,52fe468e9251416c910583c9
+mov_tmdb_20662,Ridley Scott,578,Directing,Director,52fe43f2c3a368484e0076a7
+mov_tmdb_10196,M. Night Shyamalan,11614,Directing,Director,62cb474e4b9bae0a516162d8
+mov_tmdb_39451,Paul Weitz,3289,Directing,Director,52fe471a9251416c9106a115
+mov_tmdb_35791,Paul W. S. Anderson,4014,Directing,Director,52fe45b59251416c9103babb
+mov_tmdb_11324,Martin Scorsese,1032,Directing,Director,52fe44269251416c7502a8a7
+mov_tmdb_27576,Phillip Noyce,13015,Directing,Director,52fe4555c3a368484e05409b
+mov_tmdb_37786,Michael Patrick King,38023,Directing,Director,52fe466e9251416c910543c5
+mov_tmdb_37710,Florian Henckel von Donnersmarck,8193,Directing,Director,52fe46669251416c9105335f
+mov_tmdb_27578,Sylvester Stallone,16483,Directing,Director,52fe4555c3a368484e0541a5
+mov_tmdb_38365,Dennis Dugan,17494,Directing,Director,5e8c9dc74b0c6300142d036b
+mov_tmdb_37834,James Mangold,366,Directing,Director,52fe46739251416c91054d5b
+mov_tmdb_44264,Ethan Coen,1224,Directing,Director,52fe4681c3a36847f8102c2f
+mov_tmdb_44264,Joel Coen,1223,Directing,Director,52fe4681c3a36847f8102c35
+mov_tmdb_38745,Rob Letterman,65630,Directing,Director,52fe46d99251416c91061c59
+mov_tmdb_32657,Chris Columbus,10965,Directing,Director,52fe44e29251416c91020209
+mov_tmdb_37799,David Fincher,7467,Directing,Director,52fe466f9251416c91054741
+mov_tmdb_32856,Garry Marshall,1201,Directing,Director,52fe44ec9251416c91021721
+mov_tmdb_27022,Jon Turteltaub,12962,Directing,Director,52fe4528c3a368484e04b981
+mov_tmdb_41733,Todd Phillips,57130,Directing,Director,52fe45dac3a36847f80de215
+mov_tmdb_38167,Ryan Murphy,52779,Directing,Director,52fe469c9251416c91059e93
+mov_tmdb_41515,Eric Brevig,9622,Directing,Director,52fe45cfc3a36847f80dbc0d
+mov_tmdb_39514,Robert Schwentke,57270,Directing,Director,52fe47229251416c9106b055
+mov_tmdb_41436,Tod Williams,20133,Directing,Director,52fe45cac3a36847f80da775
+mov_tmdb_34544,Joe Carnahan,40223,Directing,Director,52fe456a9251416c9103180d
+mov_tmdb_27581,Adam McKay,55710,Directing,Director,52fe4556c3a368484e05438b
+mov_tmdb_44048,Tony Scott,893,Directing,Director,52fe4674c3a36847f80fff09
+mov_tmdb_41233,Jon M. Chu,54507,Directing,Director,52fe45bec3a36847f80d7dc1
+mov_tmdb_20504,Allen Hughes,11448,Directing,Director,52fe43e9c3a368484e005861
+mov_tmdb_20504,Albert Hughes,11447,Directing,Director,52fe43e9c3a368484e00585b
+mov_tmdb_23168,Ben Affleck,880,Directing,Director,52fe4461c3a368484e01fa97
+mov_tmdb_28510,John Hyams,62941,Directing,Director,52fe459dc3a368484e0652ab
+mov_tmdb_35056,Shawn Levy,17825,Directing,Director,52fe458e9251416c91036863
+mov_tmdb_51739,Hiromasa Yonebayashi,144476,Directing,Director,52fe4801c3a36847f8153cb1
+mov_tmdb_7978,Joe Johnston,4945,Directing,Director,52fe448ac3a36847f809bd65
+mov_tmdb_41216,Zack Snyder,15217,Directing,Director,52fe45bcc3a36847f80d7a33
+mov_tmdb_27573,Andy Tennant,17167,Directing,Director,52fe4554c3a368484e053fbf
+mov_tmdb_41439,Kevin Greutert,2150,Directing,Director,52fe45cac3a36847f80da839
+mov_tmdb_33909,Oliver Stone,1152,Directing,Director,52fe45429251416c9102c3bf
+mov_tmdb_45317,David O. Russell,17883,Directing,Director,52fe46bcc3a36847f810f50d
+mov_tmdb_34851,Nimród Antal,41671,Directing,Director,52fe45819251416c91034a75
+mov_tmdb_16290,Jeff Tremaine,56578,Directing,Director,52fe46c19251416c750826cb
+mov_tmdb_23437,Samuel Bayer,20031,Directing,Director,52fe4469c3a368484e0219b1
+mov_tmdb_22971,Lasse Hallström,5306,Directing,Director,52fe4458c3a368484e01dd37
+mov_tmdb_39691,Brad Peyton,132876,Directing,Director,52fe472c9251416c9106c631
+mov_tmdb_23023,Michael Lembeck,15045,Directing,Director,52fe445bc3a368484e01e5e1
+mov_tmdb_44603,Clint Eastwood,190,Directing,Director,52fe4691c3a36847f81061e5
+mov_tmdb_38408,Greg Berlanti,88967,Directing,Director,52fe46b69251416c9105d33f
+mov_tmdb_43347,Edward Zwick,9181,Directing,Director,52fe4640c3a36847f80f4a8b
+mov_tmdb_44560,Feng Xiaogang,1287732,Directing,Director,52fe468fc3a36847f810591d
+mov_tmdb_37821,Robert Luketic,36797,Directing,Director,52fe46719251416c91054a05
+mov_tmdb_23483,Matthew Vaughn,957,Directing,Director,52fe446ac3a368484e021dcd
+mov_tmdb_22972,Paul Greengrass,25598,Directing,Director,52fe4458c3a368484e01de31
+mov_tmdb_52077,Dany Boon,37627,Directing,Director,52fe4818c3a36847f8157aa1
+mov_tmdb_35019,Susanna White,113600,Directing,Director,52fe458b9251416c910361d9
+mov_tmdb_32823,Nicholas Stoller,52934,Directing,Director,52fe44e89251416c91021093
+mov_tmdb_42297,Steve Antin,42745,Directing,Director,52fe45fbc3a36847f80e5759
+mov_tmdb_35690,Julie Anne Robinson,114597,Directing,Director,52fe45b09251416c9103af43
+mov_tmdb_38778,Jay Roach,6737,Directing,Director,52fe46df9251416c910628d5
+mov_tmdb_38579,Tom Dey,46076,Directing,Director,52fe46c79251416c9105f6b5
+mov_tmdb_43593,Alexandre Aja,59291,Directing,Director,52fe4652c3a36847f80f8afb
+mov_tmdb_36970,Jacques Perrin,20030,Directing,Director,52fe461e9251416c91049bd7
+mov_tmdb_37056,Gary Winick,17046,Directing,Director,52fe46259251416c9104ac6d
+mov_tmdb_12201,Martin Campbell,10702,Directing,Director,52fe44c99251416c75040dc9
+mov_tmdb_40264,Jason Friedberg,35694,Directing,Director,5f05e05add25890039a2a374
+mov_tmdb_40264,Aaron Seltzer,35734,Directing,Director,5f05e062dd25890039a2a37b
+mov_tmdb_22907,John Luessenhop,97026,Directing,Director,52fe4455c3a368484e01d245
+mov_tmdb_34806,Alan Poul,113225,Directing,Director,52fe457e9251416c9103452f
+mov_tmdb_38234,Isaac Florentine,78108,Directing,Director,52fe46a19251416c9105a95b
+mov_tmdb_33217,Thor Freudenthal,109857,Directing,Director,52fe45059251416c91024c7f
+mov_tmdb_37735,Will Gluck,82511,Directing,Director,52fe466a9251416c91053be7
+mov_tmdb_38358,Daniel Stamm,120245,Directing,Director,52fe46b09251416c9105c719
+mov_tmdb_22894,Scott Stewart,116357,Directing,Director,52fe4454c3a368484e01cf83
+mov_tmdb_27579,Anton Corbijn,45052,Directing,Director,52fe4555c3a368484e0542c1
+mov_tmdb_43539,Paul Haggis,455,Directing,Director,52fe464fc3a36847f80f8165
+mov_tmdb_42684,Colin Strause,6037,Directing,Director,52fe4611c3a36847f80ead67
+mov_tmdb_42684,Greg Strause,6038,Directing,Director,52fe4611c3a36847f80ead7f
+mov_tmdb_23172,Brian Levant,13581,Directing,Director,52fe4461c3a368484e01fbd7
+mov_tmdb_48415,Luca Miniero,223693,Directing,Director,52fe4765c3a36847f81335e9
+mov_tmdb_23048,Steve Pink,3227,Directing,Director,52fe445cc3a368484e01e90d
+mov_tmdb_148284,Shankar,91552,Directing,Director,52fe4bc69251416c7510d941
+mov_tmdb_12445,David Yates,11343,Directing,Director,52fe44e29251416c7504457d
+mov_tmdb_38356,Michael Bay,865,Directing,Director,52fe46af9251416c9105c5eb
+mov_tmdb_1865,Rob Marshall,17633,Directing,Director,52fe431cc3a36847f803af0f
+mov_tmdb_50619,Bill Condon,15557,Directing,Director,52fe47cec3a36847f8149503
+mov_tmdb_56292,Brad Bird,7087,Directing,Director,52fe48f7c3a36847f818296f
+mov_tmdb_49444,Jennifer Yuh Nelson,142312,Directing,Director,52fe4795c3a36847f813d903
+mov_tmdb_51497,Justin Lin,58189,Directing,Director,52fe47f6c3a36847f8151ae5
+mov_tmdb_45243,Todd Phillips,57130,Directing,Director,52fe46b8c3a36847f810e63f
+mov_tmdb_41513,Raja Gosnell,1215,Directing,Director,52fe45cfc3a36847f80dbb31
+mov_tmdb_49013,John Lasseter,7879,Directing,Director,52fe477fc3a36847f8139271
+mov_tmdb_417859,Chris Miller,12098,Directing,Director,57e71945c3a368352100aa58
+mov_tmdb_46195,Carlos Saldanha,5714,Directing,Director,52fe46e9c3a36847f81195c3
+mov_tmdb_61791,Rupert Wyatt,77357,Directing,Director,52fe4664c3a368484e08e21f
+mov_tmdb_10195,Kenneth Branagh,11181,Directing,Director,52fe433f9251416c750091eb
+mov_tmdb_77338,Éric Toledano,84425,Directing,Director,52fe4967c3a368484e129afd
+mov_tmdb_77338,Olivier Nakache,84426,Directing,Director,52fe4967c3a368484e129b03
+mov_tmdb_17578,Steven Spielberg,488,Directing,Director,52fe47349251416c7509142d
+mov_tmdb_1771,Joe Johnston,4945,Directing,Director,52fe4313c3a36847f803884d
+mov_tmdb_49538,Matthew Vaughn,957,Directing,Director,52fe479bc3a36847f813ec8d
+mov_tmdb_55301,Mike Mitchell,64151,Directing,Director,5ea54ca75a4690001d119819
+mov_tmdb_58574,Guy Ritchie,956,Directing,Director,52fe4969c3a36847f8198bb1
+mov_tmdb_39254,Shawn Levy,17825,Directing,Director,52fe47079251416c91067dd7
+mov_tmdb_55721,Paul Feig,116805,Directing,Director,52fe48dcc3a36847f817d65b
+mov_tmdb_37686,J.J. Abrams,15344,Directing,Director,52fe46639251416c91052d09
+mov_tmdb_44896,Gore Verbinski,1704,Directing,Director,52fe46a2c3a36847f8109ac5
+mov_tmdb_65754,David Fincher,7467,Directing,Director,52fe4718c3a368484e0b4c49
+mov_tmdb_40805,Michel Gondry,201,Directing,Director,52fe45a4c3a36847f80d25a9
+mov_tmdb_37958,Tarsem Singh,56512,Directing,Director,52fe46839251416c91056de7
+mov_tmdb_44912,Martin Campbell,10702,Directing,Director,52fe46a3c3a36847f8109e99
+mov_tmdb_50014,Tate Taylor,55789,Directing,Director,52fe47b5c3a36847f814402b
+mov_tmdb_52449,Jake Kasdan,51851,Directing,Director,52fe482cc3a36847f815b155
+mov_tmdb_50546,Dennis Dugan,17494,Directing,Director,52fe47cbc3a36847f81488cb
+mov_tmdb_44943,Jonathan Liebesman,66739,Directing,Director,52fe46a5c3a36847f810a665
+mov_tmdb_51540,Seth Gordon,71600,Directing,Director,52fe47f8c3a36847f8151fd5
+mov_tmdb_72571,Henry Joost,142272,Directing,Director,52fe4874c3a368484e0f8f37
+mov_tmdb_72571,Ariel Schulman,142276,Directing,Director,52fe4874c3a368484e0f8f3d
+mov_tmdb_45772,Kelly Asbury,12079,Directing,Director,52fe46d2c3a36847f81141e5
+mov_tmdb_58224,Mark Waters,54050,Directing,Director,52fe4959c3a36847f819591b
+mov_tmdb_44826,Martin Scorsese,1032,Directing,Director,52fe469dc3a36847f8108b2f
+mov_tmdb_50359,Tim Hill,49903,Directing,Director,52fe47c5c3a36847f8147421
+mov_tmdb_57212,Steven Spielberg,488,Directing,Director,52fe4928c3a36847f818c11d
+mov_tmdb_65057,Alexander Payne,13235,Directing,Director,52fe46fac3a368484e0ae7f3
+mov_tmdb_49849,Jon Favreau,15277,Directing,Director,52fe47abc3a36847f8141e1d
+mov_tmdb_49530,Andrew Niccol,8685,Directing,Director,52fe479ac3a36847f813eb73
+mov_tmdb_38317,Frank Coraci,57370,Directing,Director,52fe46aa9251416c9105bb33
+mov_tmdb_64328,James Bobin,26205,Directing,Director,52fe46d5c3a368484e0a63a9
+mov_tmdb_51876,Neil Burger,17329,Directing,Director,52fe4809c3a36847f81552c5
+mov_tmdb_58233,Oliver Parker,56710,Directing,Director,52fe495bc3a36847f8195dad
+mov_tmdb_61202,Zoya Akhtar,80386,Directing,Director,52fe4649c3a368484e08879d
+mov_tmdb_55779,Steven Quale,93214,Directing,Director,52fe48e0c3a36847f817e157
+mov_tmdb_59108,Brett Ratner,11091,Directing,Director,52fe4981c3a36847f819dbc3
+mov_tmdb_51052,Sarah Smith,208113,Directing,Director,52fe47dfc3a36847f814ce3d
+mov_tmdb_59436,Woody Allen,1243,Directing,Director,52fe4990c3a36847f81a0b9d
+mov_tmdb_65759,George Miller,20629,Directing,Director,52fe4718c3a368484e0b4d03
+mov_tmdb_46529,D.J. Caruso,40256,Directing,Director,52fe46fdc3a36847f811d9ff
+mov_tmdb_71880,Dennis Dugan,17494,Directing,Director,52fe484dc3a368484e0f2063
+mov_tmdb_50544,Will Gluck,82511,Directing,Director,52fe47cbc3a36847f814886b
+mov_tmdb_41630,Ivan Reitman,8858,Directing,Director,52fe45d7c3a36847f80dd621
+mov_tmdb_45612,Duncan Jones,81850,Directing,Director,52fe46cbc3a36847f81129a7
+mov_tmdb_50646,Glenn Ficarra,56411,Directing,Director,52fe47d0c3a36847f8149a05
+mov_tmdb_50646,John Requa,56412,Directing,Director,52fe47d0c3a36847f8149a0b
+mov_tmdb_62838,Garry Marshall,1201,Directing,Director,52fe468fc3a368484e0976d3
+mov_tmdb_71677,Ernie Barbarash,5917,Directing,Director,52fe4842c3a368484e0effeb
+mov_tmdb_39538,Steven Soderbergh,1884,Directing,Director,52fe47249251416c9106b4e7
+mov_tmdb_74643,Michel Hazanavicius,67717,Directing,Director,52fe48d7c3a368484e10d8bb
+mov_tmdb_71676,Brian Taylor,20192,Directing,Director,52fe4842c3a368484e0efed9
+mov_tmdb_71676,Mark Neveldine,20193,Directing,Director,52fe4842c3a368484e0efed3
+mov_tmdb_52451,Paul W. S. Anderson,4014,Directing,Director,52fe482cc3a36847f815b217
+mov_tmdb_48138,Jaume Collet-Serra,59521,Directing,Director,52fe4755c3a36847f8130057
+mov_tmdb_38050,George Nolfi,1921,Directing,Director,52fe468e9251416c910582a7
+mov_tmdb_74465,Cameron Crowe,11649,Directing,Director,52fe48ccc3a368484e10b86f
+mov_tmdb_55787,Francis Lawrence,10943,Directing,Director,52fe48e0c3a36847f817e3bb
+mov_tmdb_71688,Phyllida Lloyd,71068,Directing,Director,52fe4843c3a368484e0f0227
+mov_tmdb_60308,Bennett Miller,5345,Directing,Director,52fe461fc3a368484e0800b9
+mov_tmdb_48340,Alister Grierson,59126,Directing,Director,52fe4760c3a36847f8132565
+mov_tmdb_49018,James Wan,2127,Directing,Director,52fe4780c3a36847f8139515
+mov_tmdb_54518,Jon M. Chu,54507,Directing,Director,52fe48a0c3a36847f817157b
+mov_tmdb_39513,Greg Mottola,54733,Directing,Director,52fe47219251416c9106af4d
+mov_tmdb_41446,Wes Craven,5140,Directing,Director,52fe45cac3a36847f80da9e1
+mov_tmdb_48171,Mikael Håfström,29605,Directing,Director,52fe4758c3a36847f8130877
+mov_tmdb_62837,Charles Martin Smith,1270,Directing,Director,52fe468fc3a368484e097675
+mov_tmdb_76758,Zhang Yimou,607,Directing,Director,52fe494bc3a368484e1244b5
+mov_tmdb_23047,Dominic Sena,58498,Directing,Director,52fe445bc3a368484e01e859
+mov_tmdb_23629,Zack Snyder,15217,Directing,Director,52fe4471c3a368484e023557
+mov_tmdb_49730,Catherine Hardwicke,19850,Directing,Director,52fe47a3c3a36847f81408d9
+mov_tmdb_69798,Ben Palmer,1218992,Directing,Director,56452dc79251410a3f006c92
+mov_tmdb_56288,Robert Rodriguez,2294,Directing,Director,52fe48f7c3a36847f81828bb
+mov_tmdb_50348,Brad Furman,144221,Directing,Director,52fe47c4c3a36847f8147161
+mov_tmdb_88794,Clint Eastwood,190,Directing,Director,52fe4a039251416c910c04df
+mov_tmdb_38321,Scott Stewart,116357,Directing,Director,52fe46ab9251416c9105bd61
+mov_tmdb_48988,Bobby Farrelly,7395,Directing,Director,52fe477ec3a36847f8138bb9
+mov_tmdb_48988,Peter Farrelly,7396,Directing,Director,52fe477ec3a36847f8138bbf
+mov_tmdb_38322,John Whitesell,61175,Directing,Director,52fe46ab9251416c9105bdfb
+mov_tmdb_59965,John Singleton,6482,Directing,Director,52fe49a5c3a36847f81a5133
+mov_tmdb_49517,Tomas Alfredson,74396,Directing,Director,52fe4798c3a36847f813e445
+mov_tmdb_64690,Nicolas Winding Refn,21183,Directing,Director,52fe46e4c3a368484e0a9b33
+mov_tmdb_10316,George Clooney,1461,Directing,Director,52fe43589251416c7500cc1b
+mov_tmdb_49520,David Dobkin,42994,Directing,Director,52fe4799c3a36847f813e551
+mov_tmdb_59861,Tom Hanks,31,Directing,Director,52fe499dc3a36847f81a3b15
+mov_tmdb_60307,David Bowers,33183,Directing,Director,52fe461fc3a368484e080071
+mov_tmdb_62835,Olivier Megaton,75035,Directing,Director,52fe468fc3a368484e097589
+mov_tmdb_44564,Ron Howard,6159,Directing,Director,52fe468fc3a36847f81059a7
+mov_tmdb_49022,Luke Greenfield,65734,Directing,Director,52fe4781c3a36847f81397d1
+mov_tmdb_71469,Chris Gorak,10855,Directing,Director,52fe4835c3a368484e0edf1f
+mov_tmdb_50456,Joe Wright,36588,Directing,Director,52fe47c8c3a36847f8147e69
+mov_tmdb_24428,Joss Whedon,12891,Directing,Director,52fe4495c3a368484e02b1a1
+mov_tmdb_37724,Sam Mendes,39,Directing,Director,52fe46689251416c91053755
+mov_tmdb_49026,Christopher Nolan,525,Directing,Director,6044f4f8c4ad590058f9c3fd
+mov_tmdb_49051,Peter Jackson,108,Directing,Director,52fe4783c3a36847f8139f7f
+mov_tmdb_57800,Steve Martino,71729,Directing,Director,52fe4945c3a36847f8191f3f
+mov_tmdb_57800,Michael Thurmeier,229962,Directing,Director,52fe4945c3a36847f8191f61
+mov_tmdb_50620,Bill Condon,15557,Directing,Director,52fe47cec3a36847f81495c1
+mov_tmdb_1930,Marc Webb,87742,Directing,Director,52fe4323c3a36847f803d167
+mov_tmdb_80321,Eric Darnell,18863,Directing,Director,52fe47b79251416c91073781
+mov_tmdb_80321,Tom McGrath,18864,Directing,Director,52fe47b89251416c910737ef
+mov_tmdb_80321,Conrad Vernon,12080,Directing,Director,52fe47b89251416c910737f5
+mov_tmdb_70160,Gary Ross,23964,Directing,Director,52fe47edc3a368484e0e0ccb
+mov_tmdb_41154,Barry Sonnenfeld,5174,Directing,Director,52fe45b7c3a36847f80d6883
+mov_tmdb_87827,Ang Lee,1614,Directing,Director,52fe49db9251416c910bb08d
+mov_tmdb_72105,Seth MacFarlane,52139,Directing,Director,52fe4858c3a368484e0f444d
+mov_tmdb_62177,Mark Andrews,126638,Directing,Director,52fe4674c3a368484e091919
+mov_tmdb_62177,Brenda Chapman,59803,Directing,Director,52fe4674c3a368484e091925
+mov_tmdb_82690,Rich Moore,165787,Directing,Director,5e9254b0fcb8cc00138622e0
+mov_tmdb_82695,Tom Hooper,70500,Directing,Director,52fe486c9251416c9108c089
+mov_tmdb_68718,Quentin Tarantino,138,Directing,Director,5e840ff8cb6db50013a6b8d4
+mov_tmdb_70981,Ridley Scott,578,Directing,Director,52fe481dc3a368484e0e9d95
+mov_tmdb_58595,Rupert Sanders,228134,Directing,Director,52fe496ac3a36847f8198f91
+mov_tmdb_82675,Olivier Megaton,75035,Directing,Director,52fe48679251416c9108b3b3
+mov_tmdb_76492,Genndy Tartakovsky,185438,Directing,Director,52fe493ec3a368484e1216a7
+mov_tmdb_72545,Brad Peyton,132876,Directing,Director,52fe4871c3a368484e0f87a1
+mov_tmdb_73723,Chris Renaud,124748,Directing,Director,52fe48a9c3a368484e1045c3
+mov_tmdb_76163,Simon West,12786,Directing,Director,52fe4929c3a368484e11d751
+mov_tmdb_81188,Peter Ramsey,151007,Directing,Director,52fe47fe9251416c9107c923
+mov_tmdb_44833,Peter Berg,36602,Directing,Director,52fe469ec3a36847f8108cc7
+mov_tmdb_57165,Jonathan Liebesman,66739,Directing,Director,52fe4926c3a36847f818b8ff
+mov_tmdb_49529,Andrew Stanton,7,Directing,Director,52fe479ac3a36847f813ea65
+mov_tmdb_49040,Tony Gilroy,19242,Directing,Director,52fe4782c3a36847f8139c41
+mov_tmdb_72976,Steven Spielberg,488,Directing,Director,52fe4886c3a368484e0fd421
+mov_tmdb_62213,Tim Burton,510,Directing,Director,52fe4675c3a368484e091ea3
+mov_tmdb_71679,Paul W. S. Anderson,4014,Directing,Director,52fe4842c3a368484e0f00b5
+mov_tmdb_82693,David O. Russell,17883,Directing,Director,52fe486b9251416c9108bdd3
+mov_tmdb_71552,Jon Hurwitz,68843,Directing,Director,52fe4839c3a368484e0eea87
+mov_tmdb_71552,Hayden Schlossberg,68844,Directing,Director,52fe4839c3a368484e0eeac3
+mov_tmdb_68734,Ben Affleck,880,Directing,Director,52fe47a1c3a368484e0d1b5b
+mov_tmdb_75780,Christopher McQuarrie,9033,Directing,Director,52fe4913c3a368484e1191fd
+mov_tmdb_59961,Daniel Espinosa,125738,Directing,Director,52fe49a4c3a36847f81a4ecd
+mov_tmdb_151743,Xu Zheng,118711,Directing,Director,52fe4b0a9251416c910cdf99
+mov_tmdb_64688,Phil Lord,107446,Directing,Director,52fe46e4c3a368484e0a9981
+mov_tmdb_64688,Christopher Miller,155267,Directing,Director,52fe46e4c3a368484e0a99af
+mov_tmdb_64635,Len Wiseman,3950,Directing,Director,52fe46e1c3a368484e0a8fb1
+mov_tmdb_80278,J. A. Bayona,51894,Directing,Director,52fe47b39251416c91072e2f
+mov_tmdb_72570,Michael Sucsy,566328,Directing,Director,52fe4873c3a368484e0f8ecd
+mov_tmdb_62764,Tarsem Singh,56512,Directing,Director,52fe468cc3a368484e096e05
+mov_tmdb_76493,Larry Charles,6767,Directing,Director,52fe493ec3a368484e121717
+mov_tmdb_98567,Jackie Chan,18897,Directing,Director,52fe4a199251416c750dda39
+mov_tmdb_77930,Steven Soderbergh,1884,Directing,Director,52fe4983c3a368484e12f521
+mov_tmdb_87502,Robert Zemeckis,24,Directing,Director,52fe49ca9251416c910b8d73
+mov_tmdb_52520,Björn Stein,80924,Directing,Director,52fe4830c3a36847f815bce3
+mov_tmdb_52520,Måns Mårlind,80923,Directing,Director,52fe4830c3a36847f815bcdd
+mov_tmdb_59962,McG,36425,Directing,Director,52fe49a4c3a36847f81a4fcf
+mov_tmdb_74534,John Madden,18844,Directing,Director,52fe48d0c3a368484e10c3f3
+mov_tmdb_76726,Josh Trank,934803,Directing,Director,52fe494ac3a368484e1240a1
+mov_tmdb_82990,Henry Joost,142272,Directing,Director,52fe48829251416c9108ef6b
+mov_tmdb_82990,Ariel Schulman,142276,Directing,Director,52fe48829251416c9108ef71
+mov_tmdb_85446,Scott Speer,932088,Directing,Director,52fe49419251416c910a76bf
+mov_tmdb_97630,Kathryn Bigelow,14392,Directing,Director,52fe49e89251416c750d7407
+mov_tmdb_83542,Lilly Wachowski,9339,Directing,Director,52fe48a89251416c91094143
+mov_tmdb_83542,Lana Wachowski,9340,Directing,Director,52fe48a89251416c91094149
+mov_tmdb_83542,Tom Tykwer,1071,Directing,Director,52fe48a99251416c9109423d
+mov_tmdb_65086,James Watkins,63306,Directing,Director,52fe46fcc3a368484e0aedcf
+mov_tmdb_72197,Peter Lord,53304,Directing,Director,52fe485dc3a368484e0f51e9
+mov_tmdb_88042,Andy Fickman,58375,Directing,Director,52fe49e79251416c910bc9b3
+mov_tmdb_72331,Timur Bekmambetov,23430,Directing,Director,52fe4865c3a368484e0f6713
+mov_tmdb_114150,Jason Moore,168667,Directing,Director,52fe4b46c3a36847f81fb7d7
+mov_tmdb_82696,David Frankel,5065,Directing,Director,52fe486e9251416c9108c403
+mov_tmdb_122857,John Hyams,62941,Directing,Director,52fe4a85c3a368484e1583f1
+mov_tmdb_77174,Sam Fell,58897,Directing,Director,52fe4961c3a368484e1284db
+mov_tmdb_77174,Chris Butler,154705,Directing,Director,53285c2ac3a36831700028e3
+mov_tmdb_77953,Jay Roach,6737,Directing,Director,52fe4985c3a368484e12fcbd
+mov_tmdb_57214,Nima Nourizadeh,1299380,Directing,Director,55b3a0c3c3a3682ff9011015
+mov_tmdb_76487,William Brent Bell,62768,Directing,Director,52fe493dc3a368484e1214cf
+mov_tmdb_77877,Scott Hicks,33433,Directing,Director,52fe4980c3a368484e12eb2b
+mov_tmdb_77866,Baltasar Kormákur,67813,Directing,Director,52fe497fc3a368484e12e79d
+mov_tmdb_67660,Tim Story,20400,Directing,Director,52fe4770c3a368484e0c70a5
+mov_tmdb_89492,Judd Apatow,41039,Directing,Director,52fe4a1c9251416c910c395b
+mov_tmdb_77883,Ole Bornedal,22676,Directing,Director,52fe4981c3a368484e12edcb
+mov_tmdb_82525,Oliver Stone,1152,Directing,Director,52fe48599251416c91089465
+mov_tmdb_82507,Scott Derrickson,55499,Directing,Director,52fe48589251416c910890a7
+mov_tmdb_75674,Mike McCoy,90429,Directing,Director,52fe490cc3a368484e117ea5
+mov_tmdb_75674,Scott Waugh,293911,Directing,Director,52fe490cc3a368484e117eab
+mov_tmdb_62214,Tim Burton,510,Directing,Director,52fe4676c3a368484e091f3d
+mov_tmdb_75174,Joe Carnahan,40223,Directing,Director,52fe48f3c3a368484e1132f1
+mov_tmdb_76494,Kirk Jones,64045,Directing,Director,52fe493ec3a368484e1217b5
+mov_tmdb_82650,David Bowers,33183,Directing,Director,52fe48639251416c9108ab61
+mov_tmdb_81836,Woody Allen,1243,Directing,Director,52fe482e9251416c910830d7
+mov_tmdb_87826,Frank Coraci,57370,Directing,Director,52fe49db9251416c910bb03d
+mov_tmdb_22970,Drew Goddard,47506,Directing,Director,52fe4458c3a368484e01dbe7
+mov_tmdb_96724,Joe Wright,36588,Directing,Director,52fe49bf9251416c750d2185
+mov_tmdb_80035,Akiva Schaffer,62854,Directing,Director,52fe479e9251416c91070345
+mov_tmdb_83666,Wes Anderson,5655,Directing,Director,52fe48b29251416c910954b3
+mov_tmdb_75629,Hideaki Anno,77921,Directing,Director,52fe490ac3a368484e11787b
+mov_tmdb_75629,Kazuya Tsurumaki,77923,Directing,Director,65885f504da3d465244150aa
+mov_tmdb_75629,Mahiro Maeda,56341,Directing,Director,65885f6f325a5158270197fe
+mov_tmdb_75629,Masayuki,77926,Directing,Director,65885f5a325a5157bb01cf5b
+mov_tmdb_103370,Tyler Perry,80602,Directing,Director,52fe4a1dc3a36847f81ba609
+mov_tmdb_85985,Kabir Khan,85048,Directing,Director,52fe496b9251416c910acacd
+mov_tmdb_99770,Laurent Tirard,64575,Directing,Director,52fe4a409251416c750e2c2f
+mov_tmdb_121826,Dustin Hoffman,4483,Directing,Director,52fe4a6ec3a368484e152d59
+mov_tmdb_80585,Adam Shankman,20739,Directing,Director,52fe47c99251416c91075afd
+mov_tmdb_87428,Sean Anders,74619,Directing,Director,52fe49c49251416c910b81d9
+mov_tmdb_71864,Peter Hedges,3290,Directing,Director,52fe484cc3a368484e0f1dd5
+mov_tmdb_61012,MJ Bassett,69593,Directing,Director,5fa3d82071ffdf0041d6dbc5
+mov_tmdb_82633,John Hillcoat,53333,Directing,Director,52fe48629251416c9108a763
+mov_tmdb_109445,Jennifer Lee,1120694,Directing,Director,52fe4ab7c3a36847f81dddfb
+mov_tmdb_109445,Chris Buck,15774,Directing,Director,52fe4ab7c3a36847f81dddb9
+mov_tmdb_68721,Shane Black,1108,Directing,Director,52fe479fc3a368484e0d1577
+mov_tmdb_93456,Pierre Coffin,124747,Directing,Director,52fe492c9251416c750bfc61
+mov_tmdb_93456,Chris Renaud,124748,Directing,Director,52fe492c9251416c750bfc67
+mov_tmdb_57158,Peter Jackson,108,Directing,Director,52fe4926c3a36847f818b771
+mov_tmdb_101299,Francis Lawrence,10943,Directing,Director,52fe49eec3a36847f81ae1a7
+mov_tmdb_82992,Justin Lin,58189,Directing,Director,52fe48829251416c9108f003
+mov_tmdb_62211,Dan Scanlon,225976,Directing,Director,52fe4675c3a368484e091dd3
+mov_tmdb_49047,Alfonso Cuarón,11218,Directing,Director,52fe4783c3a36847f8139d67
+mov_tmdb_49521,Zack Snyder,15217,Directing,Director,52fe4799c3a36847f813e601
+mov_tmdb_76338,Alan Taylor,47005,Directing,Director,52fe4932c3a368484e11f67d
+mov_tmdb_49519,Kirk DeMicco,71267,Directing,Director,52fe4799c3a36847f813e4ed
+mov_tmdb_49519,Chris Sanders,66193,Directing,Director,52fe4799c3a36847f813e4f3
+mov_tmdb_72190,Marc Forster,12995,Directing,Director,52fe485dc3a368484e0f505d
+mov_tmdb_68728,Sam Raimi,7623,Directing,Director,52fe47a1c3a368484e0d19cd
+mov_tmdb_54138,J.J. Abrams,15344,Directing,Director,52fe488dc3a36847f816d7b1
+mov_tmdb_76170,James Mangold,366,Directing,Director,52fe492ac3a368484e11d989
+mov_tmdb_68726,Guillermo del Toro,10828,Directing,Director,52fe47a0c3a368484e0d1841
+mov_tmdb_106646,Martin Scorsese,1032,Directing,Director,52fe4a6dc3a36847f81cd4bf
+mov_tmdb_72559,Jon M. Chu,54507,Directing,Director,52fe4873c3a368484e0f8cd5
+mov_tmdb_109439,Todd Phillips,57130,Directing,Director,52fe4ab6c3a36847f81ddb15
+mov_tmdb_75656,Louis Leterrier,18865,Directing,Director,52fe490bc3a368484e117c6d
+mov_tmdb_64682,Baz Luhrmann,6201,Directing,Director,52fe46e3c3a368484e0a977f
+mov_tmdb_77931,Raja Gosnell,1215,Directing,Director,5e73ab42f9aa470013d30a44
+mov_tmdb_138843,James Wan,2127,Directing,Director,52fe4c56c3a368484e1b324f
+mov_tmdb_47964,John Moore,12028,Directing,Director,52fe4751c3a36847f812f04f
+mov_tmdb_75612,Joseph Kosinski,86270,Directing,Director,52fe4909c3a368484e1175c9
+mov_tmdb_68724,Neill Blomkamp,82194,Directing,Director,52fe47a0c3a368484e0d1771
+mov_tmdb_77950,David Soren,94075,Directing,Director,52fe4985c3a368484e12fb81
+mov_tmdb_138832,Rawson Marshall Thurber,57633,Directing,Director,52fe4c56c3a368484e1b318f
+mov_tmdb_116711,Chris Wedge,5713,Directing,Director,52fe4b9ac3a36847f820b847
+mov_tmdb_57201,Gore Verbinski,1704,Directing,Director,52fe4928c3a36847f818be95
+mov_tmdb_168672,David O. Russell,17883,Directing,Director,52fe4cd3c3a36847f8240677
+mov_tmdb_109451,Kris Pearn,1046494,Directing,Director,52fe4ab8c3a36847f81ddf53
+mov_tmdb_109451,Cody Cameron,12095,Directing,Director,52fe4ab8c3a36847f81ddf4d
+mov_tmdb_109418,Dennis Dugan,17494,Directing,Director,5f156f1fecbde900367614d9
+mov_tmdb_82700,M. Night Shyamalan,11614,Directing,Director,52fe486f9251416c9108c5cb
+mov_tmdb_136795,Paul Feig,116805,Directing,Director,52fe4c1ec3a368484e1a811b
+mov_tmdb_60304,Tommy Wirkola,76927,Directing,Director,52fe461fc3a368484e07ff69
+mov_tmdb_151960,Klay Hall,111736,Directing,Director,52fe4b129251416c910ceeed
+mov_tmdb_109424,Paul Greengrass,25598,Directing,Director,52fe4ab4c3a36847f81dd4ef
+mov_tmdb_117251,Roland Emmerich,6046,Directing,Director,52fe4baec3a36847f820f3b1
+mov_tmdb_76285,Thor Freudenthal,109857,Directing,Director,52fe492fc3a368484e11eca1
+mov_tmdb_81005,Bryan Singer,9032,Directing,Director,52fe47f09251416c9107aa75
+mov_tmdb_116745,Ben Stiller,7399,Directing,Director,52fe4b9dc3a36847f820c0e1
+mov_tmdb_76203,Steve McQueen,72757,Directing,Director,52fe492cc3a368484e11df9b
+mov_tmdb_132363,Lee Daniels,20019,Directing,Director,52fe4b92c3a368484e18fa8f
+mov_tmdb_109431,Seth Gordon,71600,Directing,Director,52fe4ab5c3a36847f81dd80d
+mov_tmdb_109443,Adam McKay,55710,Directing,Director,52fe4ab7c3a36847f81ddd35
+mov_tmdb_117263,Antoine Fuqua,20907,Directing,Director,52fe4bafc3a36847f820f62f
+mov_tmdb_91586,James Wan,2127,Directing,Director,52fe48dc9251416c750b592d
+mov_tmdb_208134,Jeff Tremaine,56578,Directing,Director,52fe4d44c3a368484e1dfded
+mov_tmdb_64686,Carl Rinsch,239571,Directing,Director,52fe46e4c3a368484e0a98c9
+mov_tmdb_193756,Peter Berg,36602,Directing,Director,52fe4cd79251416c91101fb9
+mov_tmdb_146216,Dean Parisot,15002,Directing,Director,52fe4b779251416c75103c81
+mov_tmdb_132232,Andy Muschietti,1113116,Directing,Director,52fe4b8cc3a368484e18e743
+mov_tmdb_107846,Mikael Håfström,29605,Directing,Director,52fe4a88c3a36847f81d39c3
+mov_tmdb_137093,Jon Turteltaub,12962,Directing,Director,52fe4c25c3a368484e1a9cef
+mov_tmdb_136400,Baltasar Kormákur,67813,Directing,Director,52fe4c15c3a368484e1a611f
+mov_tmdb_77951,Neil Nightingale,561061,Directing,Director,52fe4985c3a368484e12fc09
+mov_tmdb_77951,Barry Cook,66191,Directing,Director,58067fc7c3a3684ee500ae3a
+mov_tmdb_109414,Seth Rogen,19274,Directing,Director,52fe4ab2c3a36847f81dcefb
+mov_tmdb_109414,Evan Goldberg,54734,Directing,Director,52fe4ab2c3a36847f81dcf01
+mov_tmdb_80274,Gavin Hood,13079,Directing,Director,52fe47b39251416c91072ce1
+mov_tmdb_146233,Denis Villeneuve,137427,Directing,Director,52fe4b799251416c75103f0d
+mov_tmdb_149870,Hayao Miyazaki,608,Directing,Director,52fe4bf59251416c75113507
+mov_tmdb_82654,Jonathan Levine,56661,Directing,Director,52fe48649251416c9108ad23
+mov_tmdb_140823,John Lee Hancock,54040,Directing,Director,52fe4a9c9251416c750e814d
+mov_tmdb_175574,Jimmy Hayward,8029,Directing,Director,52fe4d61c3a36847f825dbc3
+mov_tmdb_82682,Ruben Fleischer,91268,Directing,Director,52fe48689251416c9108b7a7
+mov_tmdb_205220,Stephen Frears,3224,Directing,Director,52fe4d04c3a368484e1d2767
+mov_tmdb_160588,Woody Allen,1243,Directing,Director,52fe4c33c3a36847f82229c3
+mov_tmdb_211954,Eugenio Derbez,239574,Directing,Director,52fe4da0c3a368484e1f3a71
+mov_tmdb_109428,Fede Álvarez,932248,Directing,Director,52fe4ab5c3a36847f81dd639
+mov_tmdb_87421,David Twohy,28239,Directing,Director,52fe49c49251416c910b8187
+mov_tmdb_112949,Lasse Hallström,5306,Directing,Director,52fe4b24c3a36847f81f4bb5
+mov_tmdb_123553,Harald Zwart,21981,Directing,Director,52fe4a98c3a368484e15c653
+mov_tmdb_109410,Brian Helgeland,4723,Directing,Director,52fe4ab2c3a36847f81dcda9
+mov_tmdb_219572,Ding Sheng,110511,Directing,Director,52fe4e69c3a368484e21f3c1
+mov_tmdb_116741,Shawn Levy,17825,Directing,Director,52fe4b9cc3a36847f820bf9d
+mov_tmdb_158015,James DeMonaco,53120,Directing,Director,52fe4bd99251416c910e7963
+mov_tmdb_44977,Vijay Krishna Acharya,76451,Directing,Director,52fe46a8c3a36847f810ae6d
+mov_tmdb_96721,Ron Howard,6159,Directing,Director,52fe49be9251416c750d20a3
+mov_tmdb_134374,Michael Bay,865,Directing,Director,52fe4bcdc3a368484e199c91
+mov_tmdb_122906,Richard Curtis,7018,Directing,Director,52fe4a87c3a368484e158829
+mov_tmdb_110415,Bong Joon Ho,21684,Directing,Director,52fe4ad6c3a36847f81e448d
+mov_tmdb_133805,Kimberly Peirce,2836,Directing,Director,52fe4bbcc3a368484e1972f9
+mov_tmdb_204435,Rakesh Roshan,1032103,Directing,Director,52fe4cf3c3a368484e1ced01
+mov_tmdb_188183,Xue Xiaolu,125570,Directing,Director,52fe4d319251416c751331d1
+mov_tmdb_4258,Malcolm D. Lee,72024,Directing,Director,52fe43b6c3a36847f8069ee7
+mov_tmdb_203833,Brian Percival,126945,Directing,Director,52fe4ce7c3a368484e1cc18b
+mov_tmdb_68179,Cal Brunker,1098477,Directing,Director,52fe4788c3a368484e0cc301
+mov_tmdb_152737,John Wells,47333,Directing,Director,52fe4b299251416c910d1d6f
+mov_tmdb_146304,Malcolm D. Lee,72024,Directing,Director,52fe4b7b9251416c751044dd
+mov_tmdb_109091,Ridley Scott,578,Directing,Director,52fe4aaac3a36847f81db46f
+mov_tmdb_91314,Michael Bay,865,Directing,Director,52fe48cc9251416c750b3abd
+mov_tmdb_122917,Peter Jackson,108,Directing,Director,52fe4a87c3a368484e158b65
+mov_tmdb_118340,James Gunn,15218,Directing,Director,5e85b3bd3344c6001340c95b
+mov_tmdb_102651,Robert Stromberg,1032536,Directing,Director,52fe4a0cc3a36847f81b5cb9
+mov_tmdb_131631,Francis Lawrence,10943,Directing,Director,5300bbc39251416ade3196b4
+mov_tmdb_127585,Bryan Singer,9032,Directing,Director,52fe4affc3a368484e171ff1
+mov_tmdb_157336,Christopher Nolan,525,Directing,Director,5e83abfad236e60017fd99ed
+mov_tmdb_102382,Marc Webb,87742,Directing,Director,52fe4a07c3a36847f81b4773
+mov_tmdb_100402,Joe Russo,19272,Directing,Director,5ecacf1ee635710022d4c1ca
+mov_tmdb_100402,Anthony Russo,19271,Directing,Director,5ecacf2f140bad001b1d88fc
+mov_tmdb_119450,Matt Reeves,32278,Directing,Director,52fe4c01c3a36847f821cf1b
+mov_tmdb_177572,Don Hall,227439,Directing,Director,5e911b193679a10013374284
+mov_tmdb_177572,Chris Williams,70238,Directing,Director,5e911b2c197de40015083748
+mov_tmdb_82702,Dean DeBlois,69797,Directing,Director,52fe48709251416c9108c6e7
+mov_tmdb_190859,Clint Eastwood,190,Directing,Director,52fe4c6f9251416c910f4d57
+mov_tmdb_124905,Gareth Edwards,129894,Directing,Director,5e8237b8ce4ddc0018758b4d
+mov_tmdb_172385,Carlos Saldanha,5714,Directing,Director,52fe4d1fc3a36847f824fad1
+mov_tmdb_98566,Jonathan Liebesman,66739,Directing,Director,65fb391960620a014925266b
+mov_tmdb_137106,Phil Lord,107446,Directing,Director,52fe4c26c3a368484e1aa053
+mov_tmdb_137106,Christopher Miller,155267,Directing,Director,52fe5e0692514148c6022049
+mov_tmdb_240832,Luc Besson,59,Directing,Director,52fe4eadc3a36847f82a0adb
+mov_tmdb_270946,Simon J. Smith,44114,Directing,Director,537ccf650e0a262a84001b26
+mov_tmdb_270946,Eric Darnell,18863,Directing,Director,5483ba4d92514175f5002c15
+mov_tmdb_210577,David Fincher,7467,Directing,Director,52fe4d7fc3a368484e1ec741
+mov_tmdb_137113,Doug Liman,11694,Directing,Director,52fe4c27c3a368484e1aa1cb
+mov_tmdb_181533,Shawn Levy,17825,Directing,Director,52fe4c6a9251416c75119c25
+mov_tmdb_86834,Darren Aronofsky,6431,Directing,Director,52fe49a39251416c910b3c69
+mov_tmdb_198663,Wes Ball,1179066,Directing,Director,52fe4d859251416c91119095
+mov_tmdb_53182,Noam Murro,78914,Directing,Director,52fe4857c3a36847f81628e9
+mov_tmdb_116149,Paul King,101666,Directing,Director,52fe4b85c3a36847f8207bed
+mov_tmdb_187017,Phil Lord,107446,Directing,Director,52fe4d0e9251416c7512e73b
+mov_tmdb_187017,Christopher Miller,155267,Directing,Director,52fe4d0e9251416c7512e741
+mov_tmdb_260346,Olivier Megaton,75035,Directing,Director,54aeddd0c3a368666a00212e
+mov_tmdb_222935,Josh Boone,1053420,Directing,Director,52fe4e019251416c75148473
+mov_tmdb_157350,Neil Burger,17329,Directing,Director,52fe4bc09251416c910e49c3
+mov_tmdb_82703,Rob Minkoff,18898,Directing,Director,52fe48709251416c9108c725
+mov_tmdb_195589,Nicholas Stoller,52934,Directing,Director,52fe4d169251416c9110a221
+mov_tmdb_147441,Ridley Scott,578,Directing,Director,52fe4ba69251416c75109a81
+mov_tmdb_250546,John R. Leonetti,26714,Directing,Director,52fe4df69251416c91121eed
+mov_tmdb_184315,Brett Ratner,11091,Directing,Director,52fe4cbd9251416c75124139
+mov_tmdb_97020,José Padilha,52576,Directing,Director,52fe49cd9251416c750d3c33
+mov_tmdb_205596,Morten Tyldum,77965,Directing,Director,52fe4d0cc3a368484e1d4153
+mov_tmdb_225574,Jaume Collet-Serra,59521,Directing,Director,52fe4e629251416c75154b17
+mov_tmdb_49017,Gary Shore,1167470,Directing,Director,52fe4780c3a36847f81394d1
+mov_tmdb_138103,Patrick Hughes,143059,Directing,Director,52fe4c3fc3a368484e1aeb6f
+mov_tmdb_224141,Rob Marshall,17633,Directing,Director,52fe4e319251416c7514e603
+mov_tmdb_228150,David Ayer,19769,Directing,Director,52fe4ec09251416c75161289
+mov_tmdb_136797,Scott Waugh,293911,Directing,Director,52fe4c1ec3a368484e1a81d7
+mov_tmdb_193610,Nick Cassavetes,11151,Directing,Director,52fe4cd39251416c91101627
+mov_tmdb_156022,Antoine Fuqua,20907,Directing,Director,52fe4b919251416c910dec23
+mov_tmdb_119892,Soi Cheang,93991,Directing,Director,52fe4c0fc3a36847f821f993
+mov_tmdb_262391,Philippe de Chauveron,225142,Directing,Director,5339b6f8c3a3680e70006518
+mov_tmdb_120467,Wes Anderson,5655,Directing,Director,52fe4a47c3a368484e14a769
+mov_tmdb_100042,Bobby Farrelly,7395,Directing,Director,52fe49c8c3a36847f81a5ecb
+mov_tmdb_100042,Peter Farrelly,7396,Directing,Director,52fe49c8c3a36847f81a5ed1
+mov_tmdb_227306,Angelina Jolie,11701,Directing,Director,52fe4e9d9251416c7515c817
+mov_tmdb_216282,Steven Quale,93214,Directing,Director,52fe4e16c3a368484e20d75f
+mov_tmdb_152760,George Clooney,1461,Directing,Director,52fe4b2b9251416c910d2191
+mov_tmdb_168530,Tim Story,20400,Directing,Director,52fe4ccfc3a36847f823fb8b
+mov_tmdb_218836,Bobs Gannaway,210053,Directing,Director,53307c9e9251413a7b005d40
+mov_tmdb_282631,Kim Han-min,1049134,Directing,Director,53c938670e0a266496002114
+mov_tmdb_196867,Will Gluck,82511,Directing,Director,52fe4d3c9251416c9110f41d
+mov_tmdb_193893,Luke Greenfield,65734,Directing,Director,52fe4cdc9251416c911028fd
+mov_tmdb_137094,Kenneth Branagh,11181,Directing,Director,52fe4c25c3a368484e1a9da1
+mov_tmdb_232672,Frank Coraci,57370,Directing,Director,52fe4e07c3a36847f827a205
+mov_tmdb_225886,Jake Kasdan,51851,Directing,Director,52fe4e6e9251416c75156335
+mov_tmdb_266856,James Marsh,76998,Directing,Director,535c6a0f0e0a264feb00226f
+mov_tmdb_227783,Peter Lepeniotis,1262197,Directing,Director,52fe4eb29251416c7515f389
+mov_tmdb_297222,Rajkumar Hirani,85675,Directing,Director,543ad8be0e0a2649a800381a
+mov_tmdb_76649,Paul W. S. Anderson,4014,Directing,Director,52fe4946c3a368484e12359b
+mov_tmdb_68737,Sergei Bodrov,130938,Directing,Director,52fe47a2c3a368484e0d1d3d
+mov_tmdb_238636,James DeMonaco,53120,Directing,Director,52fe4e81c3a36847f8294b13
+mov_tmdb_170687,Graham Annable,1152981,Directing,Director,52fe4cfbc3a36847f82485bb
+mov_tmdb_170687,Anthony Stacchi,52691,Directing,Director,52fe4cfcc3a36847f82485c1
+mov_tmdb_227159,Sean Anders,74619,Directing,Director,52fe4e979251416c7515bab9
+mov_tmdb_242512,Stiles White,84962,Directing,Director,52fe4ecfc3a36847f82a94b1
+mov_tmdb_194662,Alejandro G. Iñárritu,223,Directing,Director,52fe4cf29251416c91105643
+mov_tmdb_157353,Wally Pfister,559,Directing,Director,52fe4bc19251416c910e4adb
+mov_tmdb_236751,Randall Wallace,2460,Directing,Director,52fe4e5fc3a36847f828cce3
+mov_tmdb_218778,Miguel Arteta,61069,Directing,Director,52fe4e55c3a368484e21af87
+mov_tmdb_226486,Ben Falcone,170820,Directing,Director,52fe4e7f9251416c75158651
+mov_tmdb_228326,Jorge R. Gutierrez,1265056,Directing,Director,52fe4ec79251416c75162199
+mov_tmdb_227348,Christopher Landon,54248,Directing,Director,52fe4ea09251416c7515ccc3
+mov_tmdb_228194,Lasse Hallström,5306,Directing,Director,52fe4ec29251416c75161587
+mov_tmdb_184346,Scott Derrickson,55499,Directing,Director,52fe4cbe9251416c75124309
+mov_tmdb_188161,Seth MacFarlane,52139,Directing,Director,52fe4d309251416c75132fcb
+mov_tmdb_243683,Trish Sie,1278722,Directing,Director,52fe4ee1c3a36847f82ae019
+mov_tmdb_245891,Chad Stahelski,40644,Directing,Director,5f70bc15196757003a8bfe45
+mov_tmdb_245891,David Leitch,40684,Directing,Director,6a399c937a84768b688a66f2
+mov_tmdb_205587,David Dobkin,42994,Directing,Director,52fe4d0bc3a368484e1d40e5
+mov_tmdb_265712,Takashi Yamazaki,43652,Directing,Director,5353f3e9c3a3681d93004400
+mov_tmdb_265712,Ryuichi Yagi,1311591,Directing,Director,5353f40fc3a3681d8d004384
+mov_tmdb_145220,James Bobin,26205,Directing,Director,52fe4b539251416c750ff6b7
+mov_tmdb_236737,Emilio Martínez Lázaro,27449,Directing,Director,52fe4e5fc3a36847f828cb71
+mov_tmdb_249164,R. J. Cutler,89814,Directing,Director,52fe4f3ec3a36847f82c8061
+mov_tmdb_100241,Stuart Beattie,1707,Directing,Director,52fe49d0c3a36847f81a7b79
+mov_tmdb_304410,Éric Lartigau,85340,Directing,Director,546cc58bc3a368097d001b24
+mov_tmdb_254473,Camille Delamarre,928490,Directing,Director,52fe4ebd9251416c9113c11d
+mov_tmdb_235260,Christopher Spencer,235820,Directing,Director,52fe4e43c3a36847f8286a01
+mov_tmdb_184098,Tim Story,20400,Directing,Director,52fe4cb69251416c75123255
+mov_tmdb_140607,J.J. Abrams,15344,Directing,Director,52fe4a959251416c750e7123
+mov_tmdb_135397,Colin Trevorrow,930707,Directing,Director,52fe4bf7c3a368484e1a0695
+mov_tmdb_168259,James Wan,2127,Directing,Director,52fe4cc8c3a36847f823e699
+mov_tmdb_99861,Joss Whedon,12891,Directing,Director,52fe4a449251416c750e3439
+mov_tmdb_211672,Kyle Balda,8023,Directing,Director,53ccb8edc3a368776a002323
+mov_tmdb_211672,Pierre Coffin,124747,Directing,Director,53ccb8fcc3a3687775002425
+mov_tmdb_206647,Sam Mendes,39,Directing,Director,52fe4d22c3a368484e1d8d77
+mov_tmdb_150540,Pete Docter,12890,Directing,Director,52fe4ae69251416c910c9609
+mov_tmdb_177677,Christopher McQuarrie,9033,Directing,Director,535605fec3a36841e500086b
+mov_tmdb_131634,Francis Lawrence,10943,Directing,Director,5300bc569251412a162e5b24
+mov_tmdb_286217,Ridley Scott,578,Directing,Director,53e88b1ac3a368399f0035c5
+mov_tmdb_216015,Sam Taylor-Johnson,1137903,Directing,Director,52fe4e10c3a368484e20c3ad
+mov_tmdb_150689,Kenneth Branagh,11181,Directing,Director,60f85bfaf056d50030b35e42
+mov_tmdb_281957,Alejandro G. Iñárritu,223,Directing,Director,53c3fe4f0e0a26157c00cad5
+mov_tmdb_102899,Peyton Reed,59026,Directing,Director,5393496ec3a368642b00191d
+mov_tmdb_254128,Brad Peyton,132876,Directing,Director,54dba924925141618c002232
+mov_tmdb_159824,Genndy Tartakovsky,185438,Directing,Director,52fe4c219251416c910f0d7b
+mov_tmdb_87101,Alan Taylor,47005,Directing,Director,5305030a9251412089022a6e
+mov_tmdb_207703,Matthew Vaughn,957,Directing,Director,52fe4d3ac3a368484e1ddca1
+mov_tmdb_76341,George Miller,20629,Directing,Director,52fe4933c3a368484e11f76f
+mov_tmdb_228161,Tim Johnson,52870,Directing,Director,54a1cbca925141236b00478a
+mov_tmdb_105864,Peter Sohn,21198,Directing,Director,546aa774c3a3680d780004e3
+mov_tmdb_228165,Paul Tibbitt,217174,Directing,Director,52fe4ec19251416c751613bb
+mov_tmdb_228165,Mike Mitchell,64151,Directing,Director,6308d407dcb6a3007bb3442f
+mov_tmdb_294254,Wes Ball,1179066,Directing,Director,5444af9a0e0a266336006f5e
+mov_tmdb_262500,Robert Schwentke,57270,Directing,Director,533a71a6c3a3680e7000765e
+mov_tmdb_254470,Elizabeth Banks,9281,Directing,Director,52fe4ebd9251416c9113c097
+mov_tmdb_299824,Wuershan,232685,Directing,Director,5451dc99c3a3680239005ad9
+mov_tmdb_227973,Steve Martino,71729,Directing,Director,52fe4eba9251416c7516046f
+mov_tmdb_257344,Chris Columbus,10965,Directing,Director,530f7120c3a36874ca001178
+mov_tmdb_274167,Sean Anders,74619,Directing,Director,539097bac3a3680d47001ae7
+mov_tmdb_238713,Paul Feig,116805,Directing,Director,52fe4e83c3a36847f82953b7
+mov_tmdb_258509,Walt Becker,68573,Directing,Director,5e9f74cd7aecc600257d89d8
+mov_tmdb_214756,Seth MacFarlane,52139,Directing,Director,540677bd0e0a2637270005ae
+mov_tmdb_158852,Brad Bird,7087,Directing,Director,543d1cbac3a36815de00193f
+mov_tmdb_253412,Baltasar Kormákur,67813,Directing,Director,52fe4e7f9251416c91133907
+mov_tmdb_277216,F. Gary Gray,37932,Directing,Director,53a06519c3a36850e8002ce4
+mov_tmdb_257211,Nancy Meyers,17698,Directing,Director,530e205a925141143100264b
+mov_tmdb_76757,Lana Wachowski,9340,Directing,Director,52fe494bc3a368484e124451
+mov_tmdb_76757,Lilly Wachowski,9339,Directing,Director,52fe494bc3a368484e124457
+mov_tmdb_312221,Ryan Coogler,1056121,Directing,Director,556c0d9fc3a3685489005459
+mov_tmdb_166424,Josh Trank,934803,Directing,Director,5513036ec3a36801bb003d67
+mov_tmdb_296098,Steven Spielberg,488,Directing,Director,5430507dc3a36831ac001073
+mov_tmdb_257445,Rob Letterman,65630,Directing,Director,5310c658c3a36829c40014d3
+mov_tmdb_365222,Wilson Yip,63571,Directing,Director,567aa71692514106eb0026c1
+mov_tmdb_273248,Quentin Tarantino,138,Directing,Director,5e84101e5aba320016e426c4
+mov_tmdb_256591,Glenn Ficarra,56411,Directing,Director,530789649251411111000187
+mov_tmdb_256591,John Requa,56412,Directing,Director,53078973925141110b000177
+mov_tmdb_351694,Tian Xiaopeng,1490566,Directing,Director,55b4ff62c3a3683002014468
+mov_tmdb_348892,Kabir Khan,85048,Directing,Director,55a66422925141099b0011e8
+mov_tmdb_348892,Farhan Rana Rajpoot,6321600,Directing,Director,6a4df2ac834b56d50c426317
+mov_tmdb_274854,Breck Eisner,52609,Directing,Director,544e00730e0a2608bb00427a
+mov_tmdb_271718,Judd Apatow,41039,Directing,Director,53807c33c3a368059e004f50
+mov_tmdb_257088,Ericson Core,21673,Directing,Director,530ccb429251411435001272
+mov_tmdb_318846,Adam McKay,55710,Directing,Director,55187d2e9251416f0a004c26
+mov_tmdb_266647,Joe Wright,36588,Directing,Director,535a8d33c3a36830b0000112
+mov_tmdb_373200,Chen Sicheng,1065761,Directing,Director,5697f051925141253a00058f
+mov_tmdb_309302,Jean-Jacques Annaud,2352,Directing,Director,5486ba6fc3a3681d03000db7
+mov_tmdb_300168,Daniel Lee,57832,Directing,Director,545367150e0a2648c2001080
+mov_tmdb_280092,Leigh Whannell,2128,Directing,Director,53b580940e0a2676cb002eb3
+mov_tmdb_264999,Gregory Jacobs,119665,Directing,Director,5383ba690e0a2624c700d568
+mov_tmdb_257091,Etan Cohen,52803,Directing,Director,530cce31c3a3685bfb00136d
+mov_tmdb_203801,Guy Ritchie,956,Directing,Director,53078aacc3a368421b000201
+mov_tmdb_256961,Andy Fickman,58375,Directing,Director,5ebccbe38e2e00001f10bed1
+mov_tmdb_263109,Mark Burton,7316,Directing,Director,533fde320e0a2636220012ad
+mov_tmdb_263109,Richard Starzak,1244465,Directing,Director,5b38f6ddc3a36846b800483c
+mov_tmdb_266294,Jason Moore,168667,Directing,Director,5357e30a0e0a260688000193
+mov_tmdb_296099,John Francis Daley,52935,Directing,Director,54336e2c0e0a265834006597
+mov_tmdb_296099,Jonathan Goldstein,1236679,Directing,Director,54336e5dc3a36825d3003aa0
+mov_tmdb_198184,Neill Blomkamp,82194,Directing,Director,52fe4d719251416c911164bb
+mov_tmdb_309809,Mark Osborne,57741,Directing,Director,548825f1c3a3684155000e4a
+mov_tmdb_274479,David O. Russell,17883,Directing,Director,5391e544c3a3685ed900173e
+mov_tmdb_261023,Scott Cooper,65167,Directing,Director,5330581dc3a3685fbb006b23
+mov_tmdb_314365,Tom McCarthy,17867,Directing,Director,54a1abe1c3a368554200a773
+mov_tmdb_298312,M. Night Shyamalan,11614,Directing,Director,54449dbdc3a3683e0e006a58
+mov_tmdb_243688,Gil Kenan,57193,Directing,Director,52fe4ee1c3a36847f82ae0b9
+mov_tmdb_205775,Ron Howard,6159,Directing,Director,52fe4d0fc3a368484e1d4dd9
+mov_tmdb_307081,Antoine Fuqua,20907,Directing,Director,547c725f9251412d78002be5
+mov_tmdb_256040,S. S. Rajamouli,147021,Directing,Director,530206d392514121a42beaa4
+mov_tmdb_335462,Wu Jing,78871,Directing,Director,55ca84b5925141220e000ba6
+mov_tmdb_346646,Ryoo Seung-wan,86325,Directing,Director,5590a44092514129630019d6
+mov_tmdb_268238,John Madden,18844,Directing,Director,536748acc3a3681218004159
+mov_tmdb_286565,Jake Schreier,836732,Directing,Director,5425bf89c3a3681eca004d0f
+mov_tmdb_273481,Denis Villeneuve,137427,Directing,Director,538ca2b20e0a26670e00474b
+mov_tmdb_354072,Frankie Chen,1495940,Directing,Director,55ca18c2925141154200000b
+mov_tmdb_249070,Aleksander Bach,1413740,Directing,Director,54b72124c3a3686c6b001168
+mov_tmdb_252838,Jeremy Garelick,59027,Directing,Director,52fe4e579251416c9112e661
+mov_tmdb_146301,Gregory Plotkin,995462,Directing,Director,52fe4b7b9251416c75104483
+mov_tmdb_361759,Nadeem Baig,2064529,Directing,Director,5cc2adfc0e0a26105afa3645
+mov_tmdb_201085,Guillermo del Toro,10828,Directing,Director,52fe4c9ec3a368484e1bf2c1
+mov_tmdb_323272,Alex Kendrick,78040,Directing,Director,55d3735a925141200a00031f
+mov_tmdb_287948,Camille Delamarre,928490,Directing,Director,545737f9c3a368642e001966
+mov_tmdb_241554,Jaume Collet-Serra,59521,Directing,Director,52fe4eb9c3a36847f82a3fc3
+mov_tmdb_362136,Sooraj Barjatya,110227,Directing,Director,560cb3cec3a3686814008547
+mov_tmdb_293863,Lee Toland Krieger,109745,Directing,Director,54721093c3a3686792002bc5
+mov_tmdb_243938,Steve Pink,3227,Directing,Director,52fe4ee7c3a36847f82afad7
+mov_tmdb_306819,Tom Hooper,70500,Directing,Director,547a28169251412986002b0a
+mov_tmdb_243940,David Gelb,928915,Directing,Director,52fe4ee7c3a36847f82afb2b
+mov_tmdb_271110,Joe Russo,19272,Directing,Director,5f0cd90f81c7be0033f7e757
+mov_tmdb_271110,Anthony Russo,19271,Directing,Director,5f0cd91913a32000357fe6d7
+mov_tmdb_330459,Gareth Edwards,129894,Directing,Director,5511b32cc3a36802c3001f9a
+mov_tmdb_127380,Andrew Stanton,7,Directing,Director,52fe4af8c3a368484e1707a7
+mov_tmdb_269149,Byron Howard,76595,Directing,Director,536e09650e0a2647cb00fe6b
+mov_tmdb_269149,Rich Moore,165787,Directing,Director,5590bb75925141338e0017f7
+mov_tmdb_278927,Jon Favreau,15277,Directing,Director,53ad9ba50e0a26597d00246a
+mov_tmdb_328111,Chris Renaud,124748,Directing,Director,54f347e6c3a36832420041a9
+mov_tmdb_209112,Zack Snyder,15217,Directing,Director,52fe4d5bc3a368484e1e4c15
+mov_tmdb_259316,David Yates,11343,Directing,Director,5410490cc3a3685ebc00185a
+mov_tmdb_293660,Tim Miller,55252,Directing,Director,541bece00e0a2638e7000eb2
+mov_tmdb_297761,David Ayer,19769,Directing,Director,63af26a557530e008dca4537
+mov_tmdb_277834,John Musker,15811,Directing,Director,5e911a6efdc4fa00156dcd90
+mov_tmdb_277834,Ron Clements,15810,Directing,Director,5e911a8315376c0013fd1d1e
+mov_tmdb_284052,Scott Derrickson,55499,Directing,Director,5e84c52f98f1f10016a9565e
+mov_tmdb_335797,Garth Jennings,52842,Directing,Director,552db0c292514103ce005217
+mov_tmdb_381890,Stephen Chow,57607,Directing,Director,56b9f45a92514106a40024e4
+mov_tmdb_246655,Bryan Singer,9032,Directing,Director,52fe4f19c3a36847f82bd48b
+mov_tmdb_140300,Jennifer Yuh Nelson,142312,Directing,Director,52fe4a8b9251416c750e5a21
+mov_tmdb_140300,Alessandro Carloni,1262481,Directing,Director,56afc4ff92514101f2000a80
+mov_tmdb_313369,Damien Chazelle,136495,Directing,Director,5e85d33f98f1f10012ab104b
+mov_tmdb_68735,Duncan Jones,81850,Directing,Director,52fe47a1c3a368484e0d1ca1
+mov_tmdb_324668,Paul Greengrass,25598,Directing,Director,552da5e192514174db00514b
+mov_tmdb_278154,Michael Thurmeier,229962,Directing,Director,551b875dc3a3687670001d1e
+mov_tmdb_372058,Makoto Shinkai,74091,Directing,Director,566aee32925141664f004d56
+mov_tmdb_47933,Roland Emmerich,6046,Directing,Director,52fe474ec3a36847f812e6eb
+mov_tmdb_258489,David Yates,11343,Directing,Director,535a4469c3a36847a900129c
+mov_tmdb_153518,Clay Kaytis,1281387,Directing,Director,52fe4b449251416c910d516b
+mov_tmdb_153518,Fergal Reilly,52701,Directing,Director,54101dde0e0a2612640014b0
+mov_tmdb_136799,Mike Mitchell,64151,Directing,Director,57d18da19251417e6a008aea
+mov_tmdb_188927,Justin Lin,58189,Directing,Director,549da5f9c3a368764f001ff1
+mov_tmdb_291805,Jon M. Chu,54507,Directing,Director,541022260e0a261267001552
+mov_tmdb_311324,Zhang Yimou,607,Directing,Director,54d9fdbbc3a368210800138a
+mov_tmdb_259693,James Wan,2127,Directing,Director,5327f4c99251411a0d001c70
+mov_tmdb_173897,Paul W. S. Anderson,4014,Directing,Director,52fe4d3ec3a36847f8256739
+mov_tmdb_360814,Nitesh Tiwari,1042010,Directing,Director,5714ef3f92514146c80003ea
+mov_tmdb_274870,Morten Tyldum,77965,Directing,Director,54d212f29251411b690027a1
+mov_tmdb_241259,James Bobin,26205,Directing,Director,52fe4eb5c3a36847f82a2d2f
+mov_tmdb_283366,Tim Burton,510,Directing,Director,53cfdd9e0e0a265ded0099c3
+mov_tmdb_308531,Dave Green,1101410,Directing,Director,658cd016ae38436f43a146da
+mov_tmdb_363676,Clint Eastwood,190,Directing,Director,561c20b9c3a368225300205a
+mov_tmdb_121856,Justin Kurzel,549310,Directing,Director,536010f1c3a3687ebb0000e0
+mov_tmdb_381284,Theodore Melfi,1141683,Directing,Director,56b40025c3a36806ec0035f0
+mov_tmdb_43074,Paul Feig,116805,Directing,Director,543e1b8a0e0a266f7a001970
+mov_tmdb_207932,Ron Howard,6159,Directing,Director,54d9fa4ec3a3687aa90012c9
+mov_tmdb_302699,Rawson Marshall Thurber,57633,Directing,Director,552da16d9251413873006694
+mov_tmdb_95610,Sharon Maguire,9158,Directing,Director,56801d9e92514132db00b589
+mov_tmdb_296096,Thea Sharrock,1096867,Directing,Director,54337bdbc3a36831a9007ae2
+mov_tmdb_267860,Babak Najafi,132239,Directing,Director,5464d1270e0a2635c3001d61
+mov_tmdb_329865,Denis Villeneuve,137427,Directing,Director,55219ea292514170960018df
+mov_tmdb_267935,Steven Spielberg,488,Directing,Director,536445f0c3a3681238000367
+mov_tmdb_381902,Soi Cheang,93991,Directing,Director,56bdb3e5925141734a002d66
+mov_tmdb_372399,Trivikram Srinivas,116923,Directing,Director,59f66dfb92514142820234bc
+mov_tmdb_376659,Scott Moore,52115,Directing,Director,611130343876510048b63bc3
+mov_tmdb_376659,Jon Lucas,52114,Directing,Director,5690c7adc3a3686b52001c68
+mov_tmdb_332210,Doug Sweetland,8010,Directing,Director,550f7008925141065c003d7d
+mov_tmdb_332210,Nicholas Stoller,52934,Directing,Director,5538396692514140810000d4
+mov_tmdb_262504,Robert Schwentke,57270,Directing,Director,54db3ba2925141618c0016ee
+mov_tmdb_324786,Mel Gibson,2461,Directing,Director,55b9d2be92514123e700399c
+mov_tmdb_346685,Tate Taylor,55789,Directing,Director,5590d1e1c3a36807ed0000ea
+mov_tmdb_415214,Dante Lam Chiu-yin,81220,Directing,Director,57d43963925141609e005ba5
+mov_tmdb_290595,Cedric Nicolas-Troyan,1454884,Directing,Director,552f5dd59251413b3b002be0
+mov_tmdb_333484,Antoine Fuqua,20907,Directing,Director,555934679251415576000332
+mov_tmdb_343611,Edward Zwick,9181,Directing,Director,55e73aad9251416c0d000453
+mov_tmdb_300669,Fede Álvarez,932248,Directing,Director,555afc2ec3a3682f61004a7d
+mov_tmdb_302946,Gavin O'Connor,77003,Directing,Director,54fbffffc3a36816380008a7
+mov_tmdb_205584,Alex Proyas,21085,Directing,Director,52fe4d0bc3a368484e1d40a9
+mov_tmdb_345911,David F. Sandberg,1302082,Directing,Director,55890341c3a3681dca0016f9
+mov_tmdb_294272,David Lowery,592493,Directing,Director,54fadbeac3a368199b00148d
+mov_tmdb_223702,Greg Tiernan,142587,Directing,Director,52fe4e1e9251416c7514becf
+mov_tmdb_223702,Conrad Vernon,12080,Directing,Director,52fe4e1e9251416c7514bec9
+mov_tmdb_334543,Garth Davis,1173102,Directing,Director,5521bd2e9251417096001a63
+mov_tmdb_270774,Renny Harlin,16938,Directing,Director,537b7db60e0a26396b000115
+mov_tmdb_278924,Dennis Gansel,52961,Directing,Director,54d361209251410963002c6d
+mov_tmdb_323675,Tim Story,20400,Directing,Director,54d360749251413fc10034b7
+mov_tmdb_296524,Peter Berg,36602,Directing,Director,54d9f985c3a3687ab5001561
+mov_tmdb_369885,Robert Zemeckis,24,Directing,Director,5654c6aa92514145c9000211
+mov_tmdb_332567,Jaume Collet-Serra,59521,Directing,Director,56392161c3a3681b4b01e0c9
+mov_tmdb_316727,James DeMonaco,53120,Directing,Director,54d9f356c3a3687ab50014d6
+mov_tmdb_356305,John Hamburg,17871,Directing,Director,55ddf7b0c3a3684a7f0003aa
+mov_tmdb_384682,Josh Gordon,60922,Directing,Director,56d04899c3a3681e500051e4
+mov_tmdb_384682,Will Speck,60923,Directing,Director,56d048859251413402001702
+mov_tmdb_259694,Christian Ditter,63820,Directing,Director,5327f64f9251411a1e001b1e
+mov_tmdb_333371,Dan Trachtenberg,568322,Directing,Director,5518752ac3a36862f9004962
+mov_tmdb_299687,J Blakeson,111588,Directing,Director,5450e56e0e0a263a10004373
+mov_tmdb_342473,Eric Summer,1316783,Directing,Director,569d02f1c3a36858c6003a78
+mov_tmdb_342473,Éric Warin,1792483,Directing,Director,58e9bf3a925141354c030bb5
+mov_tmdb_325133,Nicholas Stoller,52934,Directing,Director,5521a6c39251417096001952
+mov_tmdb_377447,Ding Sheng,110511,Directing,Director,56979c3bc3a3683aea002498
+mov_tmdb_376812,Ali Abbas Zafar,1561054,Directing,Director,5691c96bc3a3684d0100076a
+mov_tmdb_291870,Dan Mazer,6733,Directing,Director,5430597cc3a36831b200120c
+mov_tmdb_271969,Timur Bekmambetov,23430,Directing,Director,5382e4500e0a2624b400bef8
+mov_tmdb_303858,Jodie Foster,1038,Directing,Director,55693b229251416b04000b3e
+mov_tmdb_302688,Kirk Jones,64045,Directing,Director,55600cadc3a36868d900433f
+mov_tmdb_345920,David Frankel,5065,Directing,Director,56c345efc3a36825fb002945
+mov_tmdb_396535,Yeon Sang-ho,939147,Directing,Director,57cd4659c3a3686886000c81
+mov_tmdb_308266,Todd Phillips,57130,Directing,Director,551883899251416f0d004f83
+mov_tmdb_328387,Ariel Schulman,142276,Directing,Director,54f4eb7ec3a3683e27000595
+mov_tmdb_328387,Henry Joost,142272,Directing,Director,54f4eb529251416acf00058b
+mov_tmdb_271706,Liang Xuan,1323609,Directing,Director,53805a8fc3a36805a80048bf
+mov_tmdb_271706,Zhang Chun,1608969,Directing,Director,5719b3e7c3a368526200118c
+mov_tmdb_335796,Mike Flanagan,551463,Directing,Director,56911317c3a3686b550023c4
+mov_tmdb_346672,Anna Foerster,402272,Directing,Director,5590be5ac3a3684349004046
+mov_tmdb_334541,Kenneth Lonergan,30711,Directing,Director,5521bb74c3a3684dc1003e70
+mov_tmdb_323676,Ben Falcone,170820,Directing,Director,54d36727c3a3686abc003513
+mov_tmdb_315011,Shinji Higuchi,80752,Directing,Director,64f32ed077d23b010d6cdfad
+mov_tmdb_315011,Hideaki Anno,77921,Directing,Director,560892fa92514177550018b2
+mov_tmdb_316023,Jake Szymanski,1061773,Directing,Director,54d9f7969251410a45001537
+mov_tmdb_313297,Travis Knight,1033661,Directing,Director,5498f1b2c3a36827030001db
+mov_tmdb_181808,Rian Johnson,67367,Directing,Director,5e89f402cf1afd00116d25a4
+mov_tmdb_321612,Bill Condon,15557,Directing,Director,551879bec3a3681f840004eb
+mov_tmdb_337339,F. Gary Gray,37932,Directing,Director,56b41f91c3a36806f100355a
+mov_tmdb_324852,Kyle Balda,8023,Directing,Director,57e71794c3a368222700add6
+mov_tmdb_324852,Pierre Coffin,124747,Directing,Director,57e717a8c3a368220e00a979
+mov_tmdb_353486,Jake Kasdan,51851,Directing,Director,57c5fa0c9251412147000284
+mov_tmdb_315635,Jon Watts,1293994,Directing,Director,5e8672d3e375c000143dea73
+mov_tmdb_452557,Wu Jing,78871,Directing,Director,596871a6c3a3687298013cd1
+mov_tmdb_283995,James Gunn,15218,Directing,Director,5ebcce411283e90020ca4b1f
+mov_tmdb_284053,Taika Waititi,55934,Directing,Director,562f1e69c3a3681b4d00e370
+mov_tmdb_297762,Patty Jenkins,6884,Directing,Director,5549d4c4c3a36841a9001a69
+mov_tmdb_354912,Lee Unkrich,8,Directing,Director,55d1c0b0c3a3686e35001ea6
+mov_tmdb_166426,Espen Sandberg,20308,Directing,Director,52fe4c9cc3a36847f8236a71
+mov_tmdb_166426,Joachim Rønning,20307,Directing,Director,52fe4c9cc3a36847f8236a6b
+mov_tmdb_346364,Andy Muschietti,1113116,Directing,Director,57445b54c3a3685c350020c4
+mov_tmdb_141052,Zack Snyder,15217,Directing,Director,5a80afdd0e0a262aa00264f2
+mov_tmdb_263115,James Mangold,366,Directing,Director,54db405cc3a368122d0016f7
+mov_tmdb_335988,Michael Bay,865,Directing,Director,568b29ca9251411334022f4b
+mov_tmdb_293167,Jordan Vogt-Roberts,236539,Directing,Director,545b6677c3a368536800127e
+mov_tmdb_374720,Christopher Nolan,525,Directing,Director,5e83ab8fe33f830018359941
+mov_tmdb_295693,Tom McGrath,18864,Directing,Director,5e9119c5180dea00131638bc
+mov_tmdb_281338,Matt Reeves,32278,Directing,Director,53bfba670e0a26158500643b
+mov_tmdb_316029,Michael Gracey,1276373,Directing,Director,54c8dc9f92514108c70014d8
+mov_tmdb_343668,Matthew Vaughn,957,Directing,Director,56cf21439251413e62002a5a
+mov_tmdb_282035,Alex Kurtzman,15345,Directing,Director,552da2de92514107a0001fa9
+mov_tmdb_260514,Brian Fee,1443386,Directing,Director,577a76f9c3a3687716000419
+mov_tmdb_341174,James Foley,15890,Directing,Director,57d86c04c3a36878e9002a14
+mov_tmdb_392044,Kenneth Branagh,11181,Directing,Director,5708ac56c3a3681d3600204b
+mov_tmdb_47971,D.J. Caruso,40256,Directing,Director,5687ac459251414ecb0141a2
+mov_tmdb_406997,Stephen Chbosky,19311,Directing,Director,578be3cbc3a3685ace002a64
+mov_tmdb_324849,Chris McKay,144816,Directing,Director,54db44589251415a0d0011f5
+mov_tmdb_396422,David F. Sandberg,1302082,Directing,Director,575fa43b9251415e190018b7
+mov_tmdb_364689,Carlos Saldanha,5714,Directing,Director,562693c0c3a3680e20018bad
+mov_tmdb_346648,Paul King,101666,Directing,Director,586949cec3a3680f5c00d753
+mov_tmdb_350312,S. S. Rajamouli,147021,Directing,Director,55df39dc925141280c000070
+mov_tmdb_381288,M. Night Shyamalan,11614,Directing,Director,56b4096ac3a36806e60034cb
+mov_tmdb_335984,Denis Villeneuve,137427,Directing,Director,5e924dda4202280015e26cec
+mov_tmdb_419430,Jordan Peele,291263,Directing,Director,57f44d209251417fd700328e
+mov_tmdb_383785,Stanley Tong Gwai-Lai,44916,Directing,Director,56c811f6c3a368409c001875
+mov_tmdb_435800,Tsui Hark,26760,Directing,Director,587fa8b792514107ce002030
+mov_tmdb_126889,Ridley Scott,578,Directing,Director,52fe4ae9c3a368484e16d6c1
+mov_tmdb_339403,Edgar Wright,11090,Directing,Director,554d64de9251413e40000d7d
+mov_tmdb_339964,Luc Besson,59,Directing,Director,5552701e9251411487000a5e
+mov_tmdb_274855,Dean Devlin,8676,Directing,Director,53930d980e0a266dce0020f8
+mov_tmdb_378236,Tony Leondis,89112,Directing,Director,58d51202c3a368121b02808b
+mov_tmdb_381289,Lasse Hallström,5306,Directing,Director,56b40aefc3a36806e6003509
+mov_tmdb_137116,Kelly Asbury,12079,Directing,Director,58dddda89251411b7f003421
+mov_tmdb_399055,Guillermo del Toro,10828,Directing,Director,59baa4ab9251413b1d0144c6
+mov_tmdb_353616,Trish Sie,1278722,Directing,Director,5847033992514166ba023648
+mov_tmdb_419680,Sean Anders,74619,Directing,Director,588ae23b925141533b0127fc
+mov_tmdb_446354,Steven Spielberg,488,Directing,Director,58c4313ac3a36853360000ff
+mov_tmdb_339846,Seth Gordon,71600,Directing,Director,5712df3492514130310023a7
+mov_tmdb_390043,Patrick Hughes,143059,Directing,Director,56f863979251410c17001f3f
+mov_tmdb_324552,Chad Stahelski,40644,Directing,Director,56cf3b519251413e59002e0a
+mov_tmdb_315837,Rupert Sanders,228134,Directing,Director,54db4286c3a36812240015b1
+mov_tmdb_359940,Martin McDonagh,54472,Directing,Director,55f7440cc3a3686d0300b7a9
+mov_tmdb_399404,Joe Wright,36588,Directing,Director,57474ee1c3a36839d9000698
+mov_tmdb_274857,Guy Ritchie,956,Directing,Director,539310be0e0a266dc2002120
+mov_tmdb_379149,Martin Campbell,10702,Directing,Director,56f8644992514123cb000ddd
+mov_tmdb_305470,Dean Israelite,1099862,Directing,Director,58919aa79251412dcb00497d
+mov_tmdb_417870,Malcolm D. Lee,72024,Directing,Director,57e727039251412ae300bf40
+mov_tmdb_337170,Doug Liman,11694,Directing,Director,5539f05e925141275e002b05
+mov_tmdb_431530,Scott Moore,52115,Directing,Director,6111308f65e0a2002685ba5b
+mov_tmdb_431530,Jon Lucas,52114,Directing,Director,585de318c3a3681a68006bbd
+mov_tmdb_397567,Kim Yong-hwa,84969,Directing,Director,5738170ec3a36839c500001f
+mov_tmdb_440021,Christopher Landon,54248,Directing,Director,5919c9ae925141061e0540a9
+mov_tmdb_268531,David Soren,94075,Directing,Director,58785f6ac3a3683eeb003228
+mov_tmdb_274862,Charlie Bean,1218988,Directing,Director,539319c60e0a266db7002205
+mov_tmdb_274862,Bob Logan,1767030,Directing,Director,59d7bbf992514124c9013d24
+mov_tmdb_274862,Paul Fisher,934181,Directing,Director,59d7bd0c92514124eb0138d2
+mov_tmdb_353491,Nikolaj Arcel,74752,Directing,Director,55c4ec01c3a36856b70002e0
+mov_tmdb_298250,Michael Spierig,56501,Directing,Director,5788c865c3a36835fa00016a
+mov_tmdb_298250,Peter Spierig,56502,Directing,Director,5788c86dc3a36836c000016c
+mov_tmdb_395992,Daniel Espinosa,125738,Directing,Director,57299b6092514161b700165e
+mov_tmdb_341013,David Leitch,40684,Directing,Director,555da697925141757e0010d8
+mov_tmdb_345938,Stuart Hazeldine,105239,Directing,Director,558922c29251415128000782
+mov_tmdb_496230,Chris Sivertson,49281,Directing,Director,5a4d871c0e0a26481d001ba9
+mov_tmdb_449927,Wong Jing,548474,Directing,Director,58de5e089251411b8300c7ef
+mov_tmdb_449927,Jason Kwan,1002598,Directing,Director,59d33afb925141404e00a3b3
+mov_tmdb_441909,Ali Abbas Zafar,1561054,Directing,Director,58a4c9b492514165bc008dff
+mov_tmdb_353070,Zach Braff,5367,Directing,Director,55c14085c3a368238c002ee3
+mov_tmdb_14564,F. Javier Gutiérrez,94403,Directing,Director,54b9d3ffc3a36840460005a1
+mov_tmdb_437068,Jang Hoon,148747,Directing,Director,588781eec3a3683b93004893
+mov_tmdb_391713,Greta Gerwig,45400,Directing,Director,5e662f48459ad6001a5ad8e3
+mov_tmdb_335777,Cal Brunker,1098477,Directing,Director,552d957fc3a368750100171a
+mov_tmdb_415842,Michael Cuesta,84931,Directing,Director,5855a1ab9251411a4604453c
+mov_tmdb_423899,Stephen Frears,3224,Directing,Director,581940bf92514133ab0023a2
+mov_tmdb_290512,Hany Abu-Assad,357,Directing,Director,5408e15e0e0a263a1000071f
+mov_tmdb_403119,Johannes Roberts,100734,Directing,Director,5769bb7b92514117790008d4
+mov_tmdb_417678,Stella Meghie,1572145,Directing,Director,57e5d4ccc3a368220e00165b
+mov_tmdb_335360,Jayson Thiessen,1363226,Directing,Director,576895bb9251414b9900059a
+mov_tmdb_462677,Atsushi Takahashi,233653,Directing,Director,594958ee925141400d05824e
+mov_tmdb_373569,Jonathan Levine,56661,Directing,Director,5677d979c3a368167c008b96
+mov_tmdb_396371,Aaron Sorkin,13520,Directing,Director,572d60d8c3a3680fff001be3
+mov_tmdb_446791,Ridley Scott,578,Directing,Director,58c6e10c925141467b000329
+mov_tmdb_416477,Michael Showalter,22215,Directing,Director,57ddba22c3a36814250028da
+mov_tmdb_434119,Kim Sung-hoon,1863287,Directing,Director,59835ca8c3a368366d001743
+mov_tmdb_299536,Joe Russo,19272,Directing,Director,5e862cfafea6e30011fb6462
+mov_tmdb_299536,Anthony Russo,19271,Directing,Director,5e862ce3a5743d00130f92e8
+mov_tmdb_284054,Ryan Coogler,1056121,Directing,Director,5e6616f755c9260013626d17
+mov_tmdb_351286,J. A. Bayona,51894,Directing,Director,576def4dc3a3682d6a000089
+mov_tmdb_260513,Brad Bird,7087,Directing,Director,5912579cc3a368646b04f184
+mov_tmdb_297802,James Wan,2127,Directing,Director,55ef67979251412c32005012
+mov_tmdb_424694,Bryan Singer,9032,Directing,Director,5c9e79df0e0a265983f6eb22
+mov_tmdb_335983,Ruben Fleischer,91268,Directing,Director,591f4294925141485e039738
+mov_tmdb_353081,Christopher McQuarrie,9033,Directing,Director,5712d3f0c3a36860a8009b50
+mov_tmdb_383498,David Leitch,40684,Directing,Director,582fc7afc3a3685bad004ae5
+mov_tmdb_338952,David Yates,11343,Directing,Director,57f74e1792514124fb0007e8
+mov_tmdb_363088,Peyton Reed,59026,Directing,Director,5773e5cfc3a36870350005df
+mov_tmdb_333339,Steven Spielberg,488,Directing,Director,551975f0925141731c003965
+mov_tmdb_460555,Dante Lam Chiu-yin,81220,Directing,Director,59355fde9251417dd80358cf
+mov_tmdb_360920,Yarrow Cheney,61300,Directing,Director,5a928b5c925141417401b486
+mov_tmdb_360920,Scott Mosier,20503,Directing,Director,5ab2be9b0e0a261dd900f7b8
+mov_tmdb_505513,Chen Sicheng,1065761,Directing,Director,5a86af0c0e0a26400b039819
+mov_tmdb_345940,Jon Turteltaub,12962,Directing,Director,56d9e703c3a3681e44026389
+mov_tmdb_404368,Rich Moore,165787,Directing,Director,577a758b92514155f70003d9
+mov_tmdb_404368,Phil Johnston,567562,Directing,Director,577a75a692514155f70003e7
+mov_tmdb_400155,Genndy Tartakovsky,185438,Directing,Director,58b99760925141609e00b9ed
+mov_tmdb_424783,Travis Knight,1033661,Directing,Director,591e7e13925141482f02b752
+mov_tmdb_332562,Bradley Cooper,51329,Directing,Director,57ea3a02c3a3687edc00080a
+mov_tmdb_427641,Brad Peyton,132876,Directing,Director,5882c3a7c3a36806430036e9
+mov_tmdb_458423,Ol Parker,17510,Directing,Director,592076a5c3a36878fe043b00
+mov_tmdb_324857,Bob Persichetti,936670,Directing,Director,57f3dcefc3a3682f800001d9
+mov_tmdb_324857,Peter Ramsey,151007,Directing,Director,5a2bdad2925141032c13b87e
+mov_tmdb_324857,Rodney Rothman,59918,Directing,Director,5c005a6c9251417e55014b78
+mov_tmdb_348350,Ron Howard,6159,Directing,Director,594c2a49c3a3683232015a9c
+mov_tmdb_337167,James Foley,15890,Directing,Director,56f86694c3a36816e8007742
+mov_tmdb_439079,Corin Hardy,1401474,Directing,Director,58a7779992514152af000574
+mov_tmdb_381719,Will Gluck,82511,Directing,Director,58fa8fd5c3a36879be002ddf
+mov_tmdb_400650,Rob Marshall,17633,Directing,Director,5751bcdc9251416b5d00002e
+mov_tmdb_447332,John Krasinski,17697,Directing,Director,58caf58ec3a3682899002554
+mov_tmdb_490132,Peter Farrelly,7396,Directing,Director,5a209ba1925141032c099ee4
+mov_tmdb_447200,Rawson Marshall Thurber,57633,Directing,Director,58c9d8379251415d99000ab1
+mov_tmdb_402900,Gary Ross,23964,Directing,Director,5767db55925141770e000039
+mov_tmdb_268896,Steven S. DeKnight,1213074,Directing,Director,56d2a355c3a3681e3600e038
+mov_tmdb_336843,Wes Ball,1179066,Directing,Director,56521538c3a368070d00b965
+mov_tmdb_338970,Roar Uthaug,87877,Directing,Director,57229152c3a3682d2400083c
+mov_tmdb_424139,David Gordon Green,64141,Directing,Director,589de11d9251412ccc009130
+mov_tmdb_455207,Jon M. Chu,54507,Directing,Director,59055525c3a3684af00137af
+mov_tmdb_480530,Steven Caple Jr.,1551545,Directing,Director,5a2efea40e0a264cc116523e
+mov_tmdb_446894,Karey Kirkpatrick,52845,Directing,Director,5b7ac7520e0a26473a0478f0
+mov_tmdb_420814,Marc Forster,12995,Directing,Director,59842db492514158a300d484
+mov_tmdb_345887,Antoine Fuqua,20907,Directing,Director,58901c2cc3a368700d000c5c
+mov_tmdb_504172,Clint Eastwood,190,Directing,Director,5a7e419192514140f8000f34
+mov_tmdb_426543,Lasse Hallström,5306,Directing,Director,582ecec7c3a368457d006dbf
+mov_tmdb_426543,Joe Johnston,4945,Directing,Director,5a737ca20e0a266439012b37
+mov_tmdb_406563,Adam Robitel,1306608,Directing,Director,5788cae4c3a36834e10002af
+mov_tmdb_346910,Shane Black,1108,Directing,Director,5592d14dc3a36869d1000745
+mov_tmdb_463272,David Kerr,1220300,Directing,Director,5be0a7880e0a2657cd0025cf
+mov_tmdb_401981,Francis Lawrence,10943,Directing,Director,575ea5f6c3a3681f7d001659
+mov_tmdb_442249,Gerard McMurray,1709468,Directing,Director,5974dc2392514106a8011841
+mov_tmdb_407451,Ava DuVernay,929825,Directing,Director,5790cfa39251416b58001b88
+mov_tmdb_463821,Eli Roth,16847,Directing,Director,595453649251412b23041537
+mov_tmdb_503314,Tatsuya Nagamine,1057579,Directing,Director,5aa7f83f9251415e3c01ec7e
+mov_tmdb_491418,Sean Anders,74619,Directing,Director,5a29eb079251410333119a1c
+mov_tmdb_399035,Jaume Collet-Serra,59521,Directing,Director,57445c5992514155be00120b
+mov_tmdb_445571,John Francis Daley,52935,Directing,Director,58beb696c3a36866a505d021
+mov_tmdb_445571,Jonathan Goldstein,1236679,Directing,Director,5a835889c3a3682de7003720
+mov_tmdb_437543,Soi Cheang,93991,Directing,Director,591ad64d925141585206ab0a
+mov_tmdb_373449,Shankar,91552,Directing,Director,5676b8aac3a368168b005838
+mov_tmdb_518068,Kim Yong-hwa,84969,Directing,Director,5ad184170e0a266c25007356
+mov_tmdb_369972,Damien Chazelle,136495,Directing,Director,586577839251412b8d021710
+mov_tmdb_399360,Albert Hughes,11447,Directing,Director,574711b6c3a36808af0027a6
+mov_tmdb_484247,Paul Feig,116805,Directing,Director,59f7094a92514142aa030829
+mov_tmdb_375262,Yorgos Lanthimos,122423,Directing,Director,5686461bc3a36828f501471f
+mov_tmdb_460019,Jeff Wadlow,55075,Directing,Director,592fe3e9925141696b0085c3
+mov_tmdb_460668,Abby Kohn,69124,Directing,Director,593646b9c3a3685ae8007319
+mov_tmdb_460668,Marc Silverstein,69125,Directing,Director,593646c9c3a3685ae2008184
+mov_tmdb_437557,Kay Cannon,208664,Directing,Director,588b4bb99251415757017fa2
+mov_tmdb_487558,Spike Lee,5281,Directing,Director,5a0ea98ac3a368628c00a7cd
+mov_tmdb_442062,Ari Sandel,991868,Directing,Director,5a320be40e0a264cbc19eaf1
+mov_tmdb_463319,Zhang Yimou,607,Directing,Director,594f7af3925141315504ab5b
+mov_tmdb_454619,Rob Greenberg,197803,Directing,Director,59b0c1579251417e400270c6
+mov_tmdb_370567,John Stevenson,57742,Directing,Director,5a01f9d59251415726024182
+mov_tmdb_493922,Ari Aster,1145520,Directing,Director,5ebc2cd44ca676001fd7704f
+mov_tmdb_375588,Otto Bathurst,128276,Directing,Director,58bcc1979251416077046903
+mov_tmdb_470878,Jon Erwin,844266,Directing,Director,599248f9c3a3684146002453
+mov_tmdb_470878,Andrew Erwin,909318,Directing,Director,599248da9251417c11002335
+mov_tmdb_428078,Christian Rivers,1419579,Directing,Director,58949f9ac3a36840a7007819
+mov_tmdb_432527,Sanjay Leela Bhansali,42804,Directing,Director,5868711ac3a3680f45006c76
+mov_tmdb_449443,Christian Gudegast,54868,Directing,Director,58f9304ac3a368394900115a
+mov_tmdb_497333,Masaki Nishiura,1192043,Directing,Director,5acce00bc3a3687e9502cb36
+mov_tmdb_502682,Bill Holderman,971660,Directing,Director,5a751c5c925141059f0295f7
+mov_tmdb_429197,Adam McKay,55710,Directing,Director,663ee160ceaef28952dbd286
+mov_tmdb_401469,Steve McQueen,72757,Directing,Director,575a5daac3a36805d80007bd
+mov_tmdb_400535,Stefano Sollima,932533,Directing,Director,575062eb9251413337001d4e
+mov_tmdb_455980,Jeff Tomsic,1341472,Directing,Director,590b7898c3a3686a5c002121
+mov_tmdb_527729,Alexandre Astier,47826,Directing,Director,5b1173bbc3a368623c01cc28
+mov_tmdb_527729,Louis Clichy,1397397,Directing,Director,5b1173c90e0a263085014be9
+mov_tmdb_399174,Wes Anderson,5655,Directing,Director,57458f48c3a368697e001153
+mov_tmdb_503616,Peter Segal,13426,Directing,Director,5a7a7d310e0a260210001575
+mov_tmdb_429351,Nicolai Fuglsig,1719601,Directing,Director,58490ef0c3a368140800e055
+mov_tmdb_496328,Rajkumar Hirani,85675,Directing,Director,5a4e66e20e0a26481d00e264
+mov_tmdb_449176,Greg Berlanti,88967,Directing,Director,5943f6aa9251417f600264bb
+mov_tmdb_347375,Peter Berg,36602,Directing,Director,5596d9e9c3a3681af4000058
+mov_tmdb_299534,Joe Russo,19272,Directing,Director,5e862ca1a5743d00180f9366
+mov_tmdb_299534,Anthony Russo,19271,Directing,Director,5e862c92326ec1001719deec
+mov_tmdb_420818,Jon Favreau,15277,Directing,Director,5e84f4cada10f00014ed1f6a
+mov_tmdb_330457,Jennifer Lee,1120694,Directing,Director,5e92536e7a97ab00170bde51
+mov_tmdb_330457,Chris Buck,15774,Directing,Director,5e925387875d1a001942bffb
+mov_tmdb_429617,Jon Watts,1293994,Directing,Director,5d1fb4490328b90010d87368
+mov_tmdb_299537,Ryan Fleck,53068,Directing,Director,58f7b4299251410904000284
+mov_tmdb_299537,Anna Boden,53069,Directing,Director,5b4a2e66c3a36823d8010d27
+mov_tmdb_475557,Todd Phillips,57130,Directing,Director,5e83226e3acd2000183811d9
+mov_tmdb_181812,J.J. Abrams,15344,Directing,Director,5e85e7a65294e700114af75d
+mov_tmdb_301528,Josh Cooley,84496,Directing,Director,5c6ebb529251417df4101543
+mov_tmdb_420817,Guy Ritchie,956,Directing,Director,5c7268aac3a3685a401538ae
+mov_tmdb_512200,Jake Kasdan,51851,Directing,Director,5aac3a1792514116c3004a9d
+mov_tmdb_384018,David Leitch,40684,Directing,Director,5e8614cb5aba320018e7b248
+mov_tmdb_615453,Jiao Zi,2367353,Directing,Director,5d3442e62f8d090388d2b4eb
+mov_tmdb_166428,Dean DeBlois,69797,Directing,Director,54cd6a08c3a3687f8000238e
+mov_tmdb_420809,Joachim Rønning,20307,Directing,Director,5aed40f6c3a368346700548a
+mov_tmdb_474350,Andy Muschietti,1113116,Directing,Director,59e2c83ac3a36846dd004c65
+mov_tmdb_447404,Rob Letterman,65630,Directing,Director,58cbb017c3a368287d01076b
+mov_tmdb_530915,Sam Mendes,39,Directing,Director,5b280c7892514108be001432
+mov_tmdb_412117,Chris Renaud,124748,Directing,Director,6812b96f051fbede1027f1a2
+mov_tmdb_399579,Robert Rodriguez,2294,Directing,Director,57484f2792514135d100262d
+mov_tmdb_466272,Quentin Tarantino,138,Directing,Director,5e84102ccb6db50018a6d45c
+mov_tmdb_373571,Michael Dougherty,11012,Directing,Director,58163811c3a36873d900dc47
+mov_tmdb_287947,David F. Sandberg,1302082,Directing,Director,59961bdc92514124f8005a7a
+mov_tmdb_329996,Tim Burton,510,Directing,Director,5527ec7ec3a36819030000f4
+mov_tmdb_331482,Greta Gerwig,45400,Directing,Director,5b368ca79251413ca60222fb
+mov_tmdb_458156,Chad Stahelski,40644,Directing,Director,591d49c0c3a36878fe018e1c
+mov_tmdb_546554,Rian Johnson,67367,Directing,Director,5b8f0c920e0a267f5500192f
+mov_tmdb_290859,Tim Miller,55252,Directing,Director,5883f9bac3a3684ec600fcf6
+mov_tmdb_496243,Bong Joon Ho,21684,Directing,Director,5e85d1bf5294e700114ad77f
+mov_tmdb_458723,Jordan Peele,291263,Directing,Director,59238d0792514104ca005a7e
+mov_tmdb_575219,Han Han,1326036,Directing,Director,5c3cf490c3a36853ce3d7704
+mov_tmdb_479455,F. Gary Gray,37932,Directing,Director,5c7275fdc3a3685a40155b4e
+mov_tmdb_320288,Simon Kinberg,11092,Directing,Director,58ad78efc3a3682fde004d95
+mov_tmdb_450465,M. Night Shyamalan,11614,Directing,Director,58e2c8809251412819012023
+mov_tmdb_449924,Wilson Yip,63571,Directing,Director,58de548bc3a3687c6700bda9
+mov_tmdb_521029,Gary Dauberman,1338249,Directing,Director,5ae3b1c80e0a2649f7006a33
+mov_tmdb_359724,James Mangold,366,Directing,Director,5b101fb4c3a368622a00b1c3
+mov_tmdb_481084,Conrad Vernon,12080,Directing,Director,59e1520b9251417270004b7d
+mov_tmdb_481084,Greg Tiernan,142587,Directing,Director,5b16f99a0e0a262ddc0194f1
+mov_tmdb_280217,Mike Mitchell,64151,Directing,Director,589b4f10925141238100855d
+mov_tmdb_535544,Michael Engler,1219201,Directing,Director,5b896f77c3a3685206001083
+mov_tmdb_568160,Makoto Shinkai,74091,Directing,Director,60a8e50d85702e004062a47a
+mov_tmdb_431580,Jill Culton,7881,Directing,Director,5aff311dc3a3681c510022c7
+mov_tmdb_453405,Ang Lee,1614,Directing,Director,58faa086c3a3687a2a00347b
+mov_tmdb_431693,Nick Bruno,1745178,Directing,Director,59e48d7f92514107f502a775
+mov_tmdb_431693,Troy Quane,587699,Directing,Director,59e48d97c3a368466802a885
+mov_tmdb_504608,Dexter Fletcher,974,Directing,Director,5a809cd3925141410d020e04
+mov_tmdb_540901,Lorene Scafaria,71551,Directing,Director,5b68bfe992514140640d79dd
+mov_tmdb_522681,Adam Robitel,1306608,Directing,Director,5aef4e279251417633004be3
+mov_tmdb_515195,Danny Boyle,2034,Directing,Director,5abe9879c3a368444e0188a9
+mov_tmdb_423204,Ric Roman Waugh,76422,Directing,Director,5a909491925141335c0042b2
+mov_tmdb_454640,Thurop Van Orman,1245730,Directing,Director,5b13950792514166c300e11e
+mov_tmdb_419704,James Gray,20561,Directing,Director,5e925556ca4f6700147f4d42
+mov_tmdb_522162,Roland Emmerich,6046,Directing,Director,5aeb5324c3a3682dd1003e79
+mov_tmdb_440472,Neil Burger,17329,Directing,Director,589b574b9251410c93000340
+mov_tmdb_567646,Lee Byeong-heon,1456792,Directing,Director,5c0e581ac3a36825280c0b7b
+mov_tmdb_480414,Michael Chaves,1607672,Directing,Director,59dc2f70c3a36861df071d8f
+mov_tmdb_338967,Ruben Fleischer,91268,Directing,Director,5549e15992514104ca0019a3
+mov_tmdb_549053,Paul Feig,116805,Directing,Director,5ba180230e0a261ece0004ba
+mov_tmdb_499701,James Bobin,26205,Directing,Director,5a9884ab925141546600846b
+mov_tmdb_400157,Dylan Brown,231202,Directing,Director,6949ed5489e2aa8f55073977
+mov_tmdb_157433,Dennis Widmyer,1290272,Directing,Director,59f85e7dc3a368602e0110ac
+mov_tmdb_157433,Kevin Kölsch,1154561,Directing,Director,59f85e8992514169ec0116e2
+mov_tmdb_521777,Gene Stupnitsky,84416,Directing,Director,5ae8ead3925141665600045b
+mov_tmdb_575138,Stephen Chow,57607,Directing,Director,5c3c81b1925141344cabdc2e
+mov_tmdb_417384,André Øvredal,135113,Directing,Director,5a2a18a0c3a3680b9312218e
+mov_tmdb_449562,Chris Addison,91493,Directing,Director,58dbe65492514133d100ddc7
+mov_tmdb_449985,Jesse V. Johnson,77295,Directing,Director,5905ae67c3a3684a7601976f
+mov_tmdb_527641,Justin Baldoni,88675,Directing,Director,5b10865c9251415ed200b780
+mov_tmdb_511987,Alexandre Aja,59291,Directing,Director,5aaade299251413ff40048e9
+mov_tmdb_522938,Adrian Grünberg,589402,Directing,Director,5b78aaf30e0a26472801bc8c
+mov_tmdb_534490,Jesse V. Johnson,77295,Directing,Director,5b413d4e9251414f5f0094a1
+mov_tmdb_505436,Philippe de Chauveron,225142,Directing,Director,5a862a950e0a26535a02ce44
+mov_tmdb_515001,Taika Waititi,55934,Directing,Director,5abd55d9c3a368439603237c
+mov_tmdb_522518,Gail Mancuso,1212755,Directing,Director,5aee18df925141199e000b64
+mov_tmdb_536869,Tom Hooper,70500,Directing,Director,5b52010192514112b801652d
+mov_tmdb_438650,Hans Petter Moland,95972,Directing,Director,58939365c3a3684a1c001d5f
+mov_tmdb_464504,Tyler Perry,80602,Directing,Director,595ab883925141222b028f76
+mov_tmdb_458897,Elizabeth Banks,9281,Directing,Director,59250692c3a368782d008350
+mov_tmdb_501170,Mike Flanagan,551463,Directing,Director,5a6bd0ea92514105de0011b2
+mov_tmdb_487297,Adam Shankman,20739,Directing,Director,5c6d10519251412fc40f5623
+mov_tmdb_572164,Lee Sang-geun,2206352,Directing,Director,5c2c1b1292514167d56c34ce
+mov_tmdb_537915,Jenny Gage,1586194,Directing,Director,5b5cefbac3a368422c01a61f
+mov_tmdb_554241,Andy Fickman,58375,Directing,Director,5be38828c3a36810c40217a0
+mov_tmdb_501907,Marielle Heller,177532,Directing,Director,5a70935a925141375700fe48
+mov_tmdb_585268,Siddharth Anand,35785,Directing,Director,5d2d7cdda294f042db354030
+mov_tmdb_512196,Christopher Landon,54248,Directing,Director,5aac343ec3a36846ba004bda
+mov_tmdb_573699,Amp Wong,2217620,Directing,Director,5c3d03abc3a36859f53da98a
+mov_tmdb_573699,Zhao Ji,1665497,Directing,Director,5ce1054c0e0a266f86cc83ce
+mov_tmdb_525661,Jay Roach,6737,Directing,Director,5b0381d992514109a7022197
+mov_tmdb_581387,Kim Byung-seo,1293085,Directing,Director,5c61692f0e0a267df995db1f
+mov_tmdb_581387,Lee Hae-jun,108536,Directing,Director,5c6169560e0a2650ad957794
+mov_tmdb_502416,Tate Taylor,55789,Directing,Director,5a73a5c9925141059a01317b
+mov_tmdb_567609,Tyler Gillett,1039527,Directing,Director,5c0e03310e0a2638af0c1c80
+mov_tmdb_567609,Matt Bettinelli-Olpin,66681,Directing,Director,5c0e032892514147b00b1663
+mov_tmdb_577328,Sandeep Reddy Vanga,1879517,Directing,Director,5c48a3c29251410e2253ed5d
+mov_tmdb_456740,Neil Marshall,57581,Directing,Director,59112a069251414ead038f3f
+mov_tmdb_454292,Sujeeth,1454674,Directing,Director,58fe9d3292514107cc000cbc
+mov_tmdb_586863,Ladj Ly,144817,Directing,Director,5c823d850e0a264301601a52
+mov_tmdb_635302,Haruo Sotozaki,1283010,Directing,Director,605614a3ab1bc700287968fc
+mov_tmdb_508935,Guan Hu,131301,Directing,Director,5a9ad5880e0a2606490227fe
+mov_tmdb_38700,Bilall Fallah,1399842,Directing,Director,5af3c5500e0a26394b00499f
+mov_tmdb_38700,Adil El Arbi,1399841,Directing,Director,5af3c54192514178fd0031d9
+mov_tmdb_577922,Christopher Nolan,525,Directing,Director,5e83abdcd236e60015fd9f9f
+mov_tmdb_454626,Jeff Fowler,93364,Directing,Director,5e85716d98f1f10012aa7ce9
+mov_tmdb_448119,Stephen Gaghan,2945,Directing,Director,58d0ee85c3a36838d5007199
+mov_tmdb_559974,Herman Yau,92831,Directing,Director,5be2d6f59251415c820108e5
+mov_tmdb_529203,Joel Crawford,1450348,Directing,Director,5b3526689251413ca00206f1
+mov_tmdb_495764,Cathy Yan,1936668,Directing,Director,5ad617099251415dc3017706
+mov_tmdb_464052,Patty Jenkins,6884,Directing,Director,5a847700c3a36863e700ec11
+mov_tmdb_570670,Leigh Whannell,2128,Directing,Director,5c4f49d2c3a368049c8898b0
+mov_tmdb_508439,Dan Scanlon,225976,Directing,Director,5e81ecd52a210c00152c1e66
+mov_tmdb_508442,Pete Docter,12890,Directing,Director,5c65ae76c3a36843c6d8a8ad
+mov_tmdb_522627,Guy Ritchie,956,Directing,Director,5aef11250e0a261d95005bd2
+mov_tmdb_481848,Chris Sanders,66193,Directing,Director,59e668a8c3a36863940049a0
+mov_tmdb_695297,Ahmad Al Awadhi,4668035,Directing,Director,66286ecb91f0ea017e00a26f
+mov_tmdb_337401,Niki Caro,15287,Directing,Director,58a400c592514165b90007b3
+mov_tmdb_524047,Ric Roman Waugh,76422,Directing,Director,5c5f065cc3a3684c238cf47b
+mov_tmdb_593402,Checco Zalone,114366,Directing,Director,5ca9ef840e0a264c69f434b7
+mov_tmdb_539537,Jeff Wadlow,55075,Directing,Director,5b60cf0e0e0a267eed005ced
+mov_tmdb_446893,Walt Dohrn,118489,Directing,Director,5e925509ccb15f00156dedc3
+mov_tmdb_340102,Josh Boone,1053420,Directing,Director,5553ddb79251416ddb000457
+mov_tmdb_584850,Om Raut,1407759,Directing,Director,5c752b6a925141688953ba6c
+mov_tmdb_613504,Roger Kumble,11873,Directing,Director,5d47f03da0be28081ea2e6c9
+mov_tmdb_607313,Anil Ravipudi,1473728,Directing,Director,5cfa341b9251416aebc40240
+mov_tmdb_425001,Tim Hill,49903,Directing,Director,586d591b92514143100006eb
+mov_tmdb_581392,Yeon Sang-ho,939147,Directing,Director,5c616cefc3a3684f90d5cf92
+mov_tmdb_458576,Paul W. S. Anderson,4014,Directing,Director,5921e29f9251414a5705a1ee
+mov_tmdb_443791,William Eubank,125324,Directing,Director,58b23be8c3a368076c0150b8
+mov_tmdb_338762,David S. F. Wilson,1773871,Directing,Director,5e85b6375aba320016e6e289
+mov_tmdb_625568,Derrick Borte,126910,Directing,Director,5d607c7f924ce5314714f8f3
+mov_tmdb_581526,Hong Won-chan,75918,Directing,Director,5c6229d69251412fb4fbdec1
+mov_tmdb_628241,Trivikram Srinivas,116923,Directing,Director,5d6e143c65686e2bc587934a
+mov_tmdb_514207,Fyodor Bondarchuk,80999,Directing,Director,5ab8b8b30e0a26303b00a869
+mov_tmdb_385103,Tony Cervone,23683,Directing,Director,56d3c469c3a3681e39010b9f
+mov_tmdb_589754,Dmitriy Dyachenko,115122,Directing,Director,5c9e1568c3a3686f0500b415
+mov_tmdb_526019,Miguel Arteta,61069,Directing,Director,5b43ee819251414f4f0252bf
+mov_tmdb_556678,Autumn de Wilde,937147,Directing,Director,5bd286909251415adf0040b0
+mov_tmdb_542224,Osgood Perkins,90609,Directing,Director,5b721f610e0a267ef41a3322
+mov_tmdb_580175,Thomas Vinterberg,4453,Directing,Director,5c5977099251415e346bf4f5
+mov_tmdb_600354,Florian Zeller,1150548,Directing,Director,607d2ac2f6787a0058fb8269
+mov_tmdb_589049,Stella Meghie,1572145,Directing,Director,5c8fe941925141409fa1ce56
+mov_tmdb_582014,Emerald Fennell,1252934,Directing,Director,5c6481a0c3a36843c6d6b850
+mov_tmdb_555974,William Brent Bell,62768,Directing,Director,5bcf80530e0a26623a01ed4e
+mov_tmdb_492611,Floria Sigismondi,98521,Directing,Director,5a3209fbc3a368148f00e15e
+mov_tmdb_594669,Ahmed Khan,81089,Directing,Director,5cb1b89e0e0a2626c8c61a93
+mov_tmdb_551804,Christopher Landon,54248,Directing,Director,5d6874d0ca83545a93f668d5
+mov_tmdb_651881,Albert Dupontel,14606,Directing,Director,5de013bd4f58010016fd3c2c
+mov_tmdb_585244,Andrew Erwin,909318,Directing,Director,5c775713c3a3681ba44c37d4
+mov_tmdb_585244,Jon Erwin,844266,Directing,Director,5db721c027d9cc001513e3be
+mov_tmdb_668742,Santiago Segura,10847,Directing,Director,5e35d364ac8e6b0018c442e2
+mov_tmdb_529485,Gavin O'Connor,77003,Directing,Director,5b1ee319c3a368089f00fb75
+mov_tmdb_614696,Cho Il,2359485,Directing,Director,5d275f055f6c4916bd5daa64
+mov_tmdb_571384,Jacob Chase,131873,Directing,Director,5c26f4d70e0a26790d344f01
+mov_tmdb_581032,Paul Greengrass,25598,Directing,Director,5c5f52660e0a2624f76a2304
+mov_tmdb_644712,Remo D'Souza,1170143,Directing,Director,5dfe483326dac10014608b63
+mov_tmdb_514847,Craig Zobel,79434,Directing,Director,5abc2a5a9251411ea001b2f8
+mov_tmdb_665358,A J Varghese,1555062,Directing,Director,5e2578841bf2660012fce586
+mov_tmdb_661043,Mohit Suri,88800,Directing,Director,5e11d1115907de0014dce57e
+mov_tmdb_613377,Tarek Boudali,1186075,Directing,Director,5d1fcffacae17c28cf320780
+mov_tmdb_702525,Jérémie Degruson,1324172,Directing,Director,62c6fac3907f260133d09f6c
+mov_tmdb_702525,Ben Stassen,76100,Directing,Director,5eb809fbbbe1dd0020829131
+mov_tmdb_575089,Zhang Yimou,607,Directing,Director,5c3c4b84c3a36811b43c2de9
+mov_tmdb_566927,Chris Henchy,99410,Directing,Director,5ef483fe976a230035b5f4dc
+mov_tmdb_592834,Peter Segal,13426,Directing,Director,5ca56eeb0e0a265bd6b4f39e
+mov_tmdb_430155,Nikita Argunov,1722417,Directing,Director,5850c8c29251416e4b011ff4
+mov_tmdb_830704,Fredi Devas,2442403,Directing,Director,60a290a151e6ab00778173da
+mov_tmdb_634649,Jon Watts,1293994,Directing,Director,5d8e630d109cd0002941162e
+mov_tmdb_779029,Chen Kaige,20640,Directing,Director,5fe35fffd70594003efda4fb
+mov_tmdb_779029,Tsui Hark,26760,Directing,Director,5fe3600c0d417e003e4df729
+mov_tmdb_779029,Dante Lam Chiu-yin,81220,Directing,Director,5fe36017b2e0740040741ef9
+mov_tmdb_758891,Jia Ling,1627287,Directing,Director,5f9b8ff1befd91003bd6c13a
+mov_tmdb_370172,Cary Joji Fukunaga,87257,Directing,Director,5ba362e80e0a265e50015bba
+mov_tmdb_385128,Justin Lin,58189,Directing,Director,5aed0d9e0e0a2635c2002fee
+mov_tmdb_602666,Chen Sicheng,1065761,Directing,Director,5cdd402f0e0a264cd1cbac97
+mov_tmdb_580489,Andy Serkis,1333,Directing,Director,5e866a52a5743d00180fe64e
+mov_tmdb_399566,Adam Wingard,98631,Directing,Director,592e202b92514130e300294c
+mov_tmdb_566525,Destin Daniel Cretton,1144604,Directing,Director,5c8965e39251410cf7c195f6
+mov_tmdb_438631,Denis Villeneuve,137427,Directing,Director,58920db99251412dd10093b4
+mov_tmdb_438695,Garth Jennings,52842,Directing,Director,5c80a103c3a3684e9bd521d3
+mov_tmdb_524434,Chloé Zhao,1395183,Directing,Director,6191c7c48e8d30004519318c
+mov_tmdb_497698,Cate Shortland,93286,Directing,Director,5b47e3b80e0a267ad500fb11
+mov_tmdb_550988,Shawn Levy,17825,Directing,Director,5bb93c4d0e0a2634f7018330
+mov_tmdb_520763,John Krasinski,17697,Directing,Director,5c70a05a0e0a262c11797ce2
+mov_tmdb_591273,Leigh Janiak,1290265,Directing,Director,5c9bf0c2c3a368023bbb20d5
+mov_tmdb_568124,Byron Howard,76595,Directing,Director,5c93afebc3a36861b0e40d95
+mov_tmdb_568124,Jared Bush,1318201,Directing,Director,5e321f35326c1900161ee019
+mov_tmdb_337404,Craig Gillespie,50767,Directing,Director,60ef20b29661fc005d7bb248
+mov_tmdb_451048,Jaume Collet-Serra,59521,Directing,Director,597f72819251415dba034884
+mov_tmdb_423108,Michael Chaves,1607672,Directing,Director,5bb60a209251410dcb00d6db
+mov_tmdb_425909,Jason Reitman,52443,Directing,Director,5c3e90a80e0a2638678ff15c
+mov_tmdb_503736,Zack Snyder,15217,Directing,Director,5c50f29a92514151a95be870
+mov_tmdb_436969,James Gunn,15218,Directing,Director,5c52b235c3a3687564861e86
+mov_tmdb_379686,Malcolm D. Lee,72024,Directing,Director,5d2ded0a66e469001180a108
+mov_tmdb_624860,Lana Wachowski,9340,Directing,Director,5d5c5827a3d02700170aae23
+mov_tmdb_644495,Ridley Scott,578,Directing,Director,5dbd148a7d2bc10013331e9f
+mov_tmdb_522478,Will Gluck,82511,Directing,Director,5c7bceeac3a3681c4b1b220e
+mov_tmdb_459151,Tom McGrath,18864,Directing,Director,607957e5ab68490029c7a69c
+mov_tmdb_675445,Cal Brunker,1098477,Directing,Director,5e501a5db3e627001826636c
+mov_tmdb_587807,Tim Story,20400,Directing,Director,5c887b2c0e0a267d08c026cd
+mov_tmdb_610253,David Gordon Green,64141,Directing,Director,5d0c2f240e0a267c5eca613e
+mov_tmdb_895435,Liu Xunzimo,1627284,Directing,Director,6188199dcee481008f4599e8
+mov_tmdb_527774,Don Hall,227439,Directing,Director,5f481bc1a2e6020035f41bf2
+mov_tmdb_527774,Carlos López Estrada,1932178,Directing,Director,5f481bf33c3ab000326a8e42
+mov_tmdb_476669,Matthew Vaughn,957,Directing,Director,59c183b3c3a3684cec001ae2
+mov_tmdb_585245,Walt Becker,68573,Directing,Director,5c7759be0e0a2607ee6210f3
+mov_tmdb_637649,Guy Ritchie,956,Directing,Director,5d9b8d9beb14fa0013d1ab21
+mov_tmdb_283566,Katsuichi Nakayama,1999367,Directing,Director,65885fcce295b4717e582abc
+mov_tmdb_283566,Kazuya Tsurumaki,77923,Directing,Director,65885fb25aba3268f1b9015f
+mov_tmdb_283566,Mahiro Maeda,56341,Directing,Director,65885fc0fad8e95d768e0c41
+mov_tmdb_283566,Hideaki Anno,77921,Directing,Director,580349359251411590000197
+mov_tmdb_631843,M. Night Shyamalan,11614,Directing,Director,5d806642389da1002095d2eb
+mov_tmdb_460465,Simon McQuoid,1828590,Directing,Director,593475c3c3a36859ef0253af
+mov_tmdb_565028,Nia DaCosta,1795072,Directing,Director,5bfdd88f92514110800386b9
+mov_tmdb_602223,Everardo Gout,1192942,Directing,Director,5d4391b2ea7b0e0014893261
+mov_tmdb_511809,Steven Spielberg,488,Directing,Director,5aa9a77a9251410564000612
+mov_tmdb_522931,Patrick Hughes,143059,Directing,Director,5c80d16b0e0a2643145de7b4
+mov_tmdb_585216,Adam Robitel,1306608,Directing,Director,5c7706f99251416f4218fcbf
+mov_tmdb_482321,Sarah Smith,208113,Directing,Director,613e6a0244ea54002a11ee94
+mov_tmdb_482321,Jean-Philippe Vine,1454692,Directing,Director,5f0bc7e955bc3500352659c6
+mov_tmdb_615457,Ilya Naishuller,1169024,Directing,Director,5d2b2930caab6d19c5987c69
+mov_tmdb_482373,Rodo Sayagues,1046225,Directing,Director,5e2129bf20af77001438797d
+mov_tmdb_508943,Enrico Casarosa,930567,Directing,Director,5f22cfa53503980033e31828
+mov_tmdb_777270,Kenneth Branagh,11181,Directing,Director,5fdc20c7798e06003e335ea9
+mov_tmdb_796499,Matthias Schweighöfer,16808,Directing,Director,60276f21df857c0041def55f
+mov_tmdb_542178,Wes Anderson,5655,Directing,Director,5b71d34fc3a368189d185e96
+mov_tmdb_690957,Sukumar,237051,Directing,Director,5e8da042629b2c001301b704
+mov_tmdb_467909,Jon M. Chu,54507,Directing,Director,5977459c9251413aeb004be5
+mov_tmdb_637693,Elaine Bogan,1400404,Directing,Director,5d9bcd64322b2b0032af5835
+mov_tmdb_460458,Johannes Roberts,100734,Directing,Director,5c087fabc3a368252d0046c2
+mov_tmdb_602734,Darren Lynn Bousman,2675,Directing,Director,5cdd9e330e0a262dcfce7bc0
+mov_tmdb_597208,Guillermo del Toro,10828,Directing,Director,5cbf888a0e0a2615fdf34445
+mov_tmdb_581734,Chloé Zhao,1395183,Directing,Director,6077327a13a3880058317b0a
+mov_tmdb_614917,Reinaldo Marcus Green,1415665,Directing,Director,5d288ad2caab6d6659993419
+mov_tmdb_568620,Robert Schwentke,57270,Directing,Director,5c4ce1030e0a2662a4c5c720
+mov_tmdb_592508,Rohit Shetty,86783,Directing,Director,5ca305330e0a26059b8e07da
+mov_tmdb_619778,James Wan,2127,Directing,Director,5d424ca77719d70011626738
+mov_tmdb_718032,Paul Thomas Anderson,4762,Directing,Director,5ef0e3822e2b2c00376e9e33
+mov_tmdb_592863,Liesl Tommy,1966571,Directing,Director,5ca5a5f9c3a36866adaefc5f
+mov_tmdb_632357,Evan Spiliotopoulos,80675,Directing,Director,5d82f99ac490480221d189fe
+mov_tmdb_617653,Ridley Scott,578,Directing,Director,5d3671d5ca83540012fa3b52
+mov_tmdb_602269,John Lee Hancock,54040,Directing,Director,5cda1d599251412f6bd20ff9
+mov_tmdb_598014,Dmitriy Dyachenko,115122,Directing,Director,5d89eff7c58acd00212e97f0
+mov_tmdb_714869,Philippe de Chauveron,225142,Directing,Director,5ee35598d20c870021304fc7
+mov_tmdb_673309,Andrew Erwin,909318,Directing,Director,5e48abef2d93750013a76cbd
+mov_tmdb_673309,Jon Erwin,844266,Directing,Director,5e48abfa1e92250015c13e77
+mov_tmdb_412656,Doug Liman,11694,Directing,Director,57bed4d6c3a36838d90041c1
+mov_tmdb_601337,Kabir Khan,85048,Directing,Director,5cd458ef0e0a265dfb61425b
+mov_tmdb_716612,Pablo Larraín,225009,Directing,Director,5eea42c91685da00372aa389
+mov_tmdb_578701,Taylor Sheridan,1215399,Directing,Director,5c4fbf179251410e225f2ed6
+mov_tmdb_766798,Pedro Almodóvar,309,Directing,Director,5fb933393c887d003ea7bd1f
+mov_tmdb_634528,Robert Lorenz,4746,Directing,Director,5d8dc1808289a00029cb3e8d
+mov_tmdb_76600,James Cameron,2710,Directing,Director,52fe4943c3a368484e122b45
+mov_tmdb_361743,Joseph Kosinski,86270,Directing,Director,5925e0fac3a36877fd011ca8
+mov_tmdb_507086,Colin Trevorrow,930707,Directing,Director,5e6c27bc2f3b17001441d227
+mov_tmdb_453395,Sam Raimi,7623,Directing,Director,5e3b5fa3ac8e6b0011cab4cf
+mov_tmdb_438148,Kyle Balda,8023,Directing,Director,629f852ea8b2ca00a717ebd2
+mov_tmdb_505642,Ryan Coogler,1056121,Directing,Director,5bbff151c3a3682d4700d6ff
+mov_tmdb_414906,Matt Reeves,32278,Directing,Director,590978a99251411cf3008f6a
+mov_tmdb_616037,Taika Waititi,55934,Directing,Director,5d2e0eb4caab6d164099c274
+mov_tmdb_928123,Tsui Hark,26760,Directing,Director,61e5e3a40cd32a006ad85ca6
+mov_tmdb_928123,Chen Kaige,20640,Directing,Director,69dbf7983d18b4d6cbd9343a
+mov_tmdb_928123,Dante Lam Chiu-yin,81220,Directing,Director,69dbf7abc657ae210e1d8b7a
+mov_tmdb_315162,Joel Crawford,1450348,Directing,Director,6052483bd2147c00287d2b63
+mov_tmdb_338953,David Yates,11343,Directing,Director,582daf36c3a3687733007794
+mov_tmdb_335787,Ruben Fleischer,91268,Directing,Director,5e191bc9b3f6f50012d39ee2
+mov_tmdb_675353,Jeff Fowler,93364,Directing,Director,5e4fc95e9b861600166c210a
+mov_tmdb_436270,Jaume Collet-Serra,59521,Directing,Director,5cfabe43c3a36868871ec1c4
+mov_tmdb_916224,Makoto Shinkai,74091,Directing,Director,61b9ba31223e200042ad7c57
+mov_tmdb_614934,Baz Luhrmann,6201,Directing,Director,5d2897baa294f0000f2913f3
+mov_tmdb_945664,Liu Jiangjiang,3451446,Directing,Director,62213de2c2823a001aa3eb05
+mov_tmdb_629542,Pierre Perifel,1261455,Directing,Director,6101d56c7d5f4b005e821bbf
+mov_tmdb_718930,David Leitch,40684,Directing,Director,5ef4d9e6c3bffe00376c7402
+mov_tmdb_718789,Angus MacLane,7929,Directing,Director,5fd2e8326dc507003da290a0
+mov_tmdb_882598,Parker Finn,2218465,Directing,Director,61612350fe5c9100441f3783
+mov_tmdb_539681,Jared Stern,89027,Directing,Director,5b61ae61c3a368188d013e18
+mov_tmdb_752623,Aaron Nee,931525,Directing,Director,6078cf81fb83460042c078ab
+mov_tmdb_752623,Adam Nee,174313,Directing,Director,623be6b6d1a893004797061f
+mov_tmdb_536554,Gerard Johnstone,1288796,Directing,Director,5b4fa156c3a368304b016a9d
+mov_tmdb_762504,Jordan Peele,291263,Directing,Director,5fa9c0e0a402c1004235e3c9
+mov_tmdb_800939,Ol Parker,17510,Directing,Director,6039b31500508a004f352b88
+mov_tmdb_526896,Daniel Espinosa,125738,Directing,Director,5b33ea1ec3a3685311019786
+mov_tmdb_756999,Scott Derrickson,55499,Directing,Director,5f947330988afd003668ab2c
+mov_tmdb_579974,S. S. Rajamouli,147021,Directing,Director,5c57c7d49251415e34691c90
+mov_tmdb_682507,Olivia Newman,1668008,Directing,Director,629e063c5507e93225b9f75a
+mov_tmdb_545611,Daniel Scheinert,1317730,Directing,Director,5b88a33c9251414cdd0023de
+mov_tmdb_545611,Daniel Kwan,1383612,Directing,Director,5b88a3659251414cee0024ed
+mov_tmdb_646385,Tyler Gillett,1039527,Directing,Director,61e031531511aa0069671436
+mov_tmdb_646385,Matt Bettinelli-Olpin,66681,Directing,Director,5e6a791ecabfe400180ff2a5
+mov_tmdb_505026,Kenneth Branagh,11181,Directing,Director,5a831363925141167e0134cf
+mov_tmdb_937278,Marc Forster,12995,Directing,Director,6205c41938e51000cd487b56
+mov_tmdb_830784,Josh Gordon,60922,Directing,Director,60a2d70f590086006f473de8
+mov_tmdb_830784,Will Speck,60923,Directing,Director,60a2d703764b990040a0532e
+mov_tmdb_616820,David Gordon Green,64141,Directing,Director,5d3203c2caab6d31b2a431af
+mov_tmdb_619803,Lee Sang-yong,2376041,Directing,Director,5d428278d8cc4a0014346732
+mov_tmdb_724495,Gina Prince-Bythewood,71947,Directing,Director,5f0e3491109dec0037e5c140
+mov_tmdb_820446,Simon Curtis,133502,Directing,Director,607da14566f2d2002920633c
+mov_tmdb_587412,Prashanth Neel,2182258,Directing,Director,5c85e8aec3a36839d4d5bd8b
+mov_tmdb_587412,Farhan Rana Rajpoot,6321600,Directing,Director,6a460c044d71d55a91ebc578
+mov_tmdb_619730,Olivia Wilde,59315,Directing,Director,5d41fe2134e15263e7e8fb06
+mov_tmdb_626735,Reid Carolin,1074867,Directing,Director,5e4234f83dd126001856ac1b
+mov_tmdb_626735,Channing Tatum,38673,Directing,Director,5e4234b441465c0018ceb38f
+mov_tmdb_656663,Jeff Tremaine,56578,Directing,Director,5fb06c12735205003f14afae
+mov_tmdb_593643,Mark Mylod,57199,Directing,Director,60be63e939a45d0029bc20b8
+mov_tmdb_899112,Tommy Wirkola,76927,Directing,Director,6193ff9f6c0b3600917798f1
+mov_tmdb_629176,Julius Avery,1299642,Directing,Director,5d890ae1172d7f00274bbe87
+mov_tmdb_877269,Don Hall,227439,Directing,Director,614c78834ccc500043da4d4b
+mov_tmdb_639933,Robert Eggers,138781,Directing,Director,5da76c71021cee00182cc3dd
+mov_tmdb_406759,Roland Emmerich,6046,Directing,Director,578a38a1c3a368662b001181
+mov_tmdb_615777,Damien Chazelle,136495,Directing,Director,5d2c94bd3acd20000fd5c897
+mov_tmdb_858485,Rishab Shetty,1752058,Directing,Director,610d01ec5bce9e002cf9c9bf
+mov_tmdb_696157,Kasi Lemmons,51864,Directing,Director,61b69043bfeb8b009a988a63
+mov_tmdb_660046,Mani Ratnam,78747,Directing,Director,5e0dde039974ee0012a67d8d
+mov_tmdb_714888,Santiago Mitre,84677,Directing,Director,5ee370a35b4fed00206208eb
+mov_tmdb_785084,Darren Aronofsky,6431,Directing,Director,5ffcbdd98b959e003b3fc579
+mov_tmdb_760741,Baltasar Kormákur,67813,Directing,Director,5fa334160443c90040b963ca
+mov_tmdb_522016,Simon Kinberg,11092,Directing,Director,5aea3af292514172ce001804
+mov_tmdb_743563,Lokesh Kanagaraj,1592411,Directing,Director,5f62397893388b00366988e9
+mov_tmdb_763285,Michael Bay,865,Directing,Director,5fac59007f0540003f49c1b7
+mov_tmdb_674324,Martin McDonagh,54472,Directing,Director,5e4bfb1d2866fa00169c483d
+mov_tmdb_804095,Steven Spielberg,488,Directing,Director,6047b8ab54508d0077575f79
+mov_tmdb_913290,Zach Cregger,84833,Directing,Director,61b10ec31e259a008cf1a5b3
+mov_tmdb_615904,Kat Coiro,59218,Directing,Director,5d2d3ea0caab6d4c349d17d2
+mov_tmdb_366672,Rob Minkoff,18898,Directing,Director,60936d45fd4f800077517794
+mov_tmdb_366672,Chris Bailey,173394,Directing,Director,62d26d5e158c85029d583935
+mov_tmdb_366672,Mark Koetsier,1535020,Directing,Director,5f92053355c1f4003928ba09
+mov_tmdb_1029827,Abhishek Pathak,1323051,Directing,Director,633572d3edeb43008ee7ad75
+mov_tmdb_668482,Matthew Warchus,111807,Directing,Director,5e3490e543250f0015bfd685
+mov_tmdb_634429,Shinji Higuchi,80752,Directing,Director,5d8d1f8c109cd000193ed665
+mov_tmdb_504827,Bernard Derriman,1815481,Directing,Director,61dd12193a48c50041a7accb
+mov_tmdb_504827,Loren Bouchard,1230593,Directing,Director,5f0e1d537a3c52003818a4de
+mov_tmdb_830788,Jessica M. Thompson,1709460,Directing,Director,60a2da85764b990040a057eb
+mov_tmdb_676701,Enrique Gato,1074721,Directing,Director,5e546009f48b34001573dbcf
+mov_tmdb_695962,Anees Bazmee,85801,Directing,Director,5ea002337aecc6001d7e0579
+mov_tmdb_664469,David O. Russell,17883,Directing,Director,5e210189397df0001496b723
+mov_tmdb_648579,Tom Gormican,1211000,Directing,Director,5dd23f74b39e3500188a261c
+mov_tmdb_346698,Greta Gerwig,45400,Directing,Director,5f87d5b52385130036355b3a
+mov_tmdb_502356,Aaron Horvath,1719706,Directing,Director,61260b984e6742002a074fcd
+mov_tmdb_502356,Michael Jelenic,113901,Directing,Director,61260ba84e6742002a074fda
+mov_tmdb_872585,Christopher Nolan,525,Directing,Director,613a93cbd38b58005f6a1964
+mov_tmdb_447365,James Gunn,15218,Directing,Director,5c8bea3dc3a368644f103363
+mov_tmdb_385687,Louis Leterrier,18865,Directing,Director,62700baac56d2d6f7690125e
+mov_tmdb_569094,Kemp Powers,2451598,Directing,Director,607e08761b1f3c006eb33d8c
+mov_tmdb_569094,Justin K. Thompson,1046497,Directing,Director,607e088a01b1ca0041e6957a
+mov_tmdb_569094,Joaquim Dos Santos,89596,Directing,Director,5c17ccfe0e0a26037f3e5aa6
+mov_tmdb_842675,Frant Gwo,1100748,Directing,Director,624deb0b7e12f000a22900bc
+mov_tmdb_787699,Paul King,101666,Directing,Director,600717e1223e20003fbeca7e
+mov_tmdb_575264,Christopher McQuarrie,9033,Directing,Director,5c3d2a630e0a2655c48e51e4
+mov_tmdb_447277,Rob Marshall,17633,Directing,Director,5d1d1ae294d8a820fa3b9b4e
+mov_tmdb_976573,Peter Sohn,21198,Directing,Director,62825bad8d77c40066cc3365
+mov_tmdb_640146,Peyton Reed,59026,Directing,Director,5dbc9866d388ae0016d85970
+mov_tmdb_603692,Chad Stahelski,40644,Directing,Director,5ce4f9d3c3a3683bd81fdded
+mov_tmdb_667538,Steven Caple Jr.,1551545,Directing,Director,5fb33ac6d55e4d003cd58727
+mov_tmdb_572802,James Wan,2127,Directing,Director,5c34e1950e0a2654b8d8d3ff
+mov_tmdb_615656,Ben Wheatley,137467,Directing,Director,5f93805c84448e00439a82d7
+mov_tmdb_335977,James Mangold,366,Directing,Director,5e574108a6d93100145c82c6
+mov_tmdb_856289,Wuershan,232685,Directing,Director,61051264ee43e80027c24cd5
+mov_tmdb_695721,Francis Lawrence,10943,Directing,Director,5e9f1f1d0ed2ab001de709cd
+mov_tmdb_1108211,Liu Xiang,3070248,Directing,Director,642a8806ac8e6b0093ea6b5a
+mov_tmdb_1108211,Cui Rui,3992160,Directing,Director,642a87f3b39e350077cc996c
+mov_tmdb_940551,Benjamin Renner,1092607,Directing,Director,621007bbaa78980042f7b143
+mov_tmdb_507089,Emma Tammi,2103746,Directing,Director,633e05b81b7c59007af7b6ca
+mov_tmdb_508883,Hayao Miyazaki,608,Directing,Director,5a9a950e92514128af01bbe8
+mov_tmdb_677179,Michael B. Jordan,135651,Directing,Director,5f948f452ceb530035d7b64a
+mov_tmdb_298618,Andy Muschietti,1113116,Directing,Director,5d1bad0555b0c031756ab9bf
+mov_tmdb_968051,Michael Chaves,1607672,Directing,Director,6269513cfea0d70a2dfc3e16
+mov_tmdb_1160164,Sam Wrench,1556959,Directing,Director,64f08ceb77d23b015039035c
+mov_tmdb_1022796,Chris Buck,15774,Directing,Director,631be2070d2f53007f5ca536
+mov_tmdb_1022796,Fawn Veerasunthorn,2375591,Directing,Director,631be21758361b009290705b
+mov_tmdb_678512,Alejandro Monteverde,72960,Directing,Director,5f2b2984f1759c00368928c3
+mov_tmdb_753342,Ridley Scott,578,Directing,Director,5f87352ba1c59d00371171c6
+mov_tmdb_1072790,Will Gluck,82511,Directing,Director,63bf14a68efe730087a7aa70
+mov_tmdb_901362,Walt Dohrn,118489,Directing,Director,6423072408cf8700bfeefb14
+mov_tmdb_493529,John Francis Daley,52935,Directing,Director,5d40d2b334e1525daceca885
+mov_tmdb_493529,Jonathan Goldstein,1236679,Directing,Director,5d40d29034e1521105eb9e85
+mov_tmdb_609681,Nia DaCosta,1795072,Directing,Director,5f2b457af1759c00378956db
+mov_tmdb_893723,Cal Brunker,1098477,Directing,Director,6182bacc3faba0002c404d79
+mov_tmdb_926393,Antoine Fuqua,20907,Directing,Director,61df4da0e24b93008d4bf05a
+mov_tmdb_614479,Patrick Wilson,17178,Directing,Director,61f0419c5a788400aaaf776b
+mov_tmdb_614930,Jeff Rowe,1578590,Directing,Director,5efb66f6e93e950033bfad1b
+mov_tmdb_934433,Matt Bettinelli-Olpin,66681,Directing,Director,6279719b51e6ab0066fb46c3
+mov_tmdb_934433,Tyler Gillett,1039527,Directing,Director,627971b6aa659e13e245476f
+mov_tmdb_466420,Martin Scorsese,1032,Directing,Director,5968f4279251412ff3021401
+mov_tmdb_713704,Lee Cronin,1398631,Directing,Director,5ede7c54f36a32001f8bd2df
+mov_tmdb_807172,David Gordon Green,64141,Directing,Director,605810fa2ac49900756f4585
+mov_tmdb_872906,Atlee,1209903,Directing,Director,613bd21860c751008d828f1b
+mov_tmdb_872906,Rana Khadim Official,6301503,Directing,Director,6a44c31ab6b56bb55a42b725
+mov_tmdb_667717,Tian Xiaopeng,1490566,Directing,Director,5e3050ab6743fa00151dcc90
+mov_tmdb_594767,David F. Sandberg,1302082,Directing,Director,5cb23bab0e0a260ad6c22de2
+mov_tmdb_565770,Ángel Manuel Soto,1500758,Directing,Director,60353737e786870040d25f6c
+mov_tmdb_864692,Siddharth Anand,35785,Directing,Director,61239b7de194b00060be875c
+mov_tmdb_951491,Kevin Greutert,2150,Directing,Director,62faa96a839d93007dc5a366
+mov_tmdb_980489,Neill Blomkamp,82194,Directing,Director,629015d476eecf00508cb4e1
+mov_tmdb_945729,Kenneth Branagh,11181,Directing,Director,62217f6f7719d7006da93bc3
+mov_tmdb_792307,Yorgos Lanthimos,122423,Directing,Director,60177cb2bb1057003c9495a7
+mov_tmdb_616747,Justin Simien,1059571,Directing,Director,6081ada79e458600295290bd
+mov_tmdb_940721,Takashi Yamazaki,43652,Directing,Director,6210c6ece0ca7f001b6ed426
+mov_tmdb_781732,Sandeep Reddy Vanga,1879517,Directing,Director,5feeb5b8bd990c003e2e8564
+mov_tmdb_670292,Gareth Edwards,129894,Directing,Director,5e3ccecb9603310013e8aac1
+mov_tmdb_945703,Dong Chengpeng,1292116,Directing,Director,6221652b84591c006cb885e3
+mov_tmdb_751171,Dmitriy Dyachenko,115122,Directing,Director,6106db84a76ac50023e5a344
+mov_tmdb_1008042,Danny Philippou,2070453,Directing,Director,62ea8b1257d3780060aaab51
+mov_tmdb_1008042,Michael Philippou,2070452,Directing,Director,62ea8b348566d2005a482a7f
+mov_tmdb_964980,Ben Affleck,880,Directing,Director,625f4a11e61e6d00a79f3f15
+mov_tmdb_804150,Elizabeth Banks,9281,Directing,Director,6047cd106cf3d5005bf624e0
+mov_tmdb_770906,Prashanth Neel,2182258,Directing,Director,650ef21f3a4a12013955608f
+mov_tmdb_884605,Gene Stupnitsky,84416,Directing,Director,6167285d84591c0023e53e34
+mov_tmdb_532408,Rob Savage,1129908,Directing,Director,618033d011386c0043275197
+mov_tmdb_758323,Julius Avery,1299642,Directing,Director,62ba6d7ca6ddcb00502101c7
+mov_tmdb_646389,Jean-François Richet,58324,Directing,Director,610a9d6feea34d0073121f73
+mov_tmdb_1073486,Paresh Mokashi,114380,Directing,Director,63c1b1a1df857c008927b33b
+mov_tmdb_949229,Lokesh Kanagaraj,1592411,Directing,Director,622e61aa98f1f100459c04c1
+mov_tmdb_558915,Blitz Bazawule,1507725,Directing,Director,5f4452403f8ede0034f023a2
+mov_tmdb_700391,Scott Beck,1317685,Directing,Director,5eb05e800c3ec8001fced3bf
+mov_tmdb_700391,Bryan Woods,1317686,Directing,Director,5eb05ddf0b73160024417f41
+mov_tmdb_1062807,Takashi Katagiri,2666700,Directing,Director,641fa0c308cf8700defe03e7
+mov_tmdb_631842,M. Night Shyamalan,11614,Directing,Director,5d8067168e20c5001234bd3f
+mov_tmdb_823452,George Clooney,1461,Directing,Director,6088695754a09800294ca877
+mov_tmdb_734253,Om Raut,1407759,Directing,Director,5f3b363166e46900344b3fa2
+mov_tmdb_747188,Wes Anderson,5655,Directing,Director,5f700b06d55e4d00347343b9
+mov_tmdb_816904,Juan Jesús García Galocha,2044869,Directing,Director,60719ac4cc277c0041580265
+mov_tmdb_467244,Jonathan Glazer,66728,Directing,Director,5970e7b59251414fde004e17
+mov_tmdb_719256,Brent McCorkle,1097871,Directing,Director,6514c7c50499f200c44e74e0
+mov_tmdb_719256,Jon Erwin,844266,Directing,Director,634b50a7414291007f3b6bd3
+mov_tmdb_906221,Steven Soderbergh,1884,Directing,Director,61a50b383dc3130091823f88
+mov_tmdb_1026227,Paola Cortellesi,133214,Directing,Director,6328989a53866e0085b1242d
+mov_tmdb_720557,Maneesh Sharma,224221,Directing,Director,6177cf91c2b9df0042a69120
+mov_tmdb_739405,Guy Ritchie,956,Directing,Director,5f516207021cee0036224d03
+mov_tmdb_1022789,Kelsey Mann,182001,Directing,Director,631bd6ad0d2f53007f5c9c41
+mov_tmdb_533535,Shawn Levy,17825,Directing,Director,622bc4c8a579f9006f1f0a6d
+mov_tmdb_1241982,David G. Derrick Jr.,4524084,Directing,Director,65c3f76295acf001831d5b39
+mov_tmdb_1241982,Jason Hand,1461394,Directing,Director,665779d955f81cdf5ef8fd7f
+mov_tmdb_1241982,Dana Ledoux Miller,1513971,Directing,Director,66577a0eed2b90153df90135
+mov_tmdb_519182,Chris Renaud,124748,Directing,Director,62101ce6e72fe80043b24690
+mov_tmdb_402431,Jon M. Chu,54507,Directing,Director,675b49a15c42a8c6ed8d198a
+mov_tmdb_762509,Barry Jenkins,92784,Directing,Director,5fa9c38b1b7294003b96e62b
+mov_tmdb_693134,Denis Villeneuve,137427,Directing,Director,5e959beedb72c00012ad7dcf
+mov_tmdb_823464,Adam Wingard,98631,Directing,Director,608879ed66e4690040e33c01
+mov_tmdb_1011985,Mike Mitchell,64151,Directing,Director,644d436e5e14e504e6b8aa9a
+mov_tmdb_939243,Jeff Fowler,93364,Directing,Director,6574dc5b564ec7011b1f3775
+mov_tmdb_912649,Kelly Marcel,940376,Directing,Director,635bfce6fd6300007e3fef09
+mov_tmdb_1228891,Han Han,1326036,Directing,Director,659df9c0fc5f0601a6364554
+mov_tmdb_558449,Ridley Scott,578,Directing,Director,5bdc0fbf0e0a26332f008f8b
+mov_tmdb_917496,Tim Burton,510,Directing,Director,63073e8318864b007b189051
+mov_tmdb_1229349,Jia Ling,1627287,Directing,Director,659f50c2ed96bc012a4f237c
+mov_tmdb_573435,Adil El Arbi,1399841,Directing,Director,63d954c6955c65007bab87ed
+mov_tmdb_573435,Bilall Fallah,1399842,Directing,Director,63d954d7a9117f0083fef156
+mov_tmdb_653346,Wes Ball,1179066,Directing,Director,5de6f63611386c001354710d
+mov_tmdb_495278,Kirill Serebrennikov,557984,Directing,Director,625c1263ae36680050ddd290
+mov_tmdb_718821,Lee Isaac Chung,931952,Directing,Director,639f2f0eda10f000a7ed8120
+mov_tmdb_1079091,Justin Baldoni,88675,Directing,Director,63d31494a410c8125be6f94c
+mov_tmdb_945961,Fede Álvarez,932248,Directing,Director,6222914b9f1be7006b8ed9bb
+mov_tmdb_1184918,Chris Sanders,66193,Directing,Director,6515fd960499f200e1c69a22
+mov_tmdb_1228564,Huida Lin,2239433,Directing,Director,65b071156af8f800ed9f0f6e
+mov_tmdb_762441,Michael Sarnoski,2580328,Directing,Director,63614b6e0c3ec8007e4f0f63
+mov_tmdb_748783,Mark Dindal,61411,Directing,Director,5f75bf1a29c626003975bab6
+mov_tmdb_857598,Sukumar,237051,Directing,Director,61bf73d3f28838008fd56797
+mov_tmdb_516729,Dougal Wilson,1717526,Directing,Director,62a7605d3e2ec8005053c69e
+mov_tmdb_889737,Todd Phillips,57130,Directing,Director,6176f9b265e0a2002bd5741e
+mov_tmdb_967847,Gil Kenan,57193,Directing,Director,638e85bafb834600a677f3c6
+mov_tmdb_639720,John Krasinski,17697,Directing,Director,5da66c9138765100185dfc35
+mov_tmdb_845781,Jake Kasdan,51851,Directing,Director,617e19065294e70044041393
+mov_tmdb_426063,Robert Eggers,138781,Directing,Director,675bc90b70f3679278fc3e0b
+mov_tmdb_746036,David Leitch,40684,Directing,Director,5f6b67bda7e363003626dc94
+mov_tmdb_802219,Reinaldo Marcus Green,1415665,Directing,Director,603fccc197eab400775bbc06
+mov_tmdb_786892,George Miller,20629,Directing,Director,6003f7f8f6787a003e2e9d8e
+mov_tmdb_866398,David Ayer,19769,Directing,Director,630f9aa360620a007e6289bd
+mov_tmdb_801688,Nag Ashwin,1508808,Directing,Director,603d5f241d019110c339b8c7
+mov_tmdb_661539,James Mangold,366,Directing,Director,5e13c52d6262080014c40409
+mov_tmdb_1100782,Parker Finn,2218465,Directing,Director,64122d4db4224200f7919da4
+mov_tmdb_698687,Josh Cooley,84496,Directing,Director,5eaa2fb3b7fbbd001c3ad95c
+mov_tmdb_1128650,Donnie Yen,1341,Directing,Director,6645d8d07509698a011cb4eb
+mov_tmdb_1226578,Osgood Perkins,90609,Directing,Director,65976d9560c51d56f59788be
+mov_tmdb_929590,Alex Garland,2036,Directing,Director,61eb0fd5848eb900698dfb9c
+mov_tmdb_974576,Edward Berger,221522,Directing,Director,627be397fd140b0053aa575d
+mov_tmdb_1278101,Yang Lina,1149365,Directing,Director,6625ff772e2b2c0187686a96
+mov_tmdb_673593,Arturo Perez Jr.,1438991,Directing,Director,6393916bd7fbda007be7cf59
+mov_tmdb_673593,Samantha Jayne,1438990,Directing,Director,63939177f04d0100bfae7890
+mov_tmdb_634492,SJ Clarkson,223551,Directing,Director,5ec57bf4ae2811001f3a680f
+mov_tmdb_1012201,Susumu Mitsunaka,1325228,Directing,Director,6510329e26dac1014e220d6f
+mov_tmdb_848538,Matthew Vaughn,957,Directing,Director,60e5ccefaf58cb002f84839f
+mov_tmdb_923667,Soi Cheang,93991,Directing,Director,61d66adcbb260200850e0dd9
+mov_tmdb_937287,Luca Guadagnino,78160,Directing,Director,6205da670f365500673aa2cf
+mov_tmdb_1034541,Damien Leone,933176,Directing,Director,6346542907e2810082f1868c
+mov_tmdb_1152014,Artus,1562548,Directing,Director,64b156329672ed00aeb4421e
+mov_tmdb_1032823,M. Night Shyamalan,11614,Directing,Director,6340674813654500833c4a02
+mov_tmdb_933260,Coralie Fargeat,1607016,Directing,Director,61f85d66559d22001b91b8ff
+mov_tmdb_1114513,James Watkins,63306,Directing,Director,643d9dd5ed96bc04b0596e9e
+mov_tmdb_1084736,Alexandre de La Patellière,58255,Directing,Director,63e5f97dc2ff3d00f31652c5
+mov_tmdb_1084736,Matthieu Delaporte,57558,Directing,Director,63e5f98e2fccee007cf9c1a0
+mov_tmdb_1103621,Pat Boonnitipat,2730142,Directing,Director,641bdb0495c0af00a02140c4
+mov_tmdb_539972,J.C. Chandor,556172,Directing,Director,5f3f706d028f1400325a1c16
+mov_tmdb_1097549,Halina Reijn,39847,Directing,Director,640943b5271671010beb5273
+mov_tmdb_1064213,Sean Baker,118415,Directing,Director,63a3bfdc25a53600d57ac722
+mov_tmdb_1072342,Bryce McGuire,1389077,Directing,Director,63bdbad28138310080467a65
+mov_tmdb_811941,Koratala Siva,1168111,Directing,Director,61f7d8d959e8a9001b110ca0
+mov_tmdb_437342,Arkasha Stevenson,1706480,Directing,Director,627aea8a2f8d090066fbe24a
+mov_tmdb_1138194,Scott Beck,1317685,Directing,Director,64836015e375c000acc4bd27
+mov_tmdb_1138194,Bryan Woods,1317686,Directing,Director,6483602ae2726000c92fff00
+mov_tmdb_1086747,Ishana Night Shyamalan,2957803,Directing,Director,63ebeb048e8702009ec1bc9f
+mov_tmdb_998846,Sam Taylor-Johnson,1137903,Directing,Director,62cc8118fd4a960f4e8365b3
+mov_tmdb_549509,Brady Corbet,55493,Directing,Director,5ba43f700e0a263232004ad8
+mov_tmdb_719221,Spenser Cohen,1651531,Directing,Director,62bfd8dd681888004cbef2fa
+mov_tmdb_719221,Anna Halberg,2093324,Directing,Director,62bfd8f1681888004cbef308
+mov_tmdb_1010600,Renny Harlin,16938,Directing,Director,6320ee00db154f00985f4783
+mov_tmdb_1129608,Venkat Prabhu,150690,Directing,Director,6469ff2e33a376011ec43939
+mov_tmdb_840705,Zoë Kravitz,37153,Directing,Director,60c8c1f866ae4d007aee9bac
+mov_tmdb_980599,Anees Bazmee,85801,Directing,Director,65ca2c36aaec71019b5aca63
+mov_tmdb_1004096,Klim Shipenko,143696,Directing,Director,62de53f41a3248004e0cc111
+mov_tmdb_1014214,Rohit Shetty,86783,Directing,Director,62fe9be67cffda007beca3b5
+mov_tmdb_980477,Jiao Zi,2367353,Directing,Director,629010549a643500aa037480
+mov_tmdb_1084242,Jared Bush,1318201,Directing,Director,66b7237688732302e6261d2a
+mov_tmdb_1084242,Byron Howard,76595,Directing,Director,66eda00fbeb947a007fe1536
+mov_tmdb_83533,James Cameron,2710,Directing,Director,52fe48a89251416c9109401d
+mov_tmdb_552524,Dean Fleischer Camp,1540069,Directing,Director,62d0730f0b5fd6005387f489
+mov_tmdb_950387,Jared Hess,53925,Directing,Director,625db6e1d38b5817ae2a800c
+mov_tmdb_1234821,Gareth Edwards,129894,Directing,Director,65d54521eea34d01866c1b0c
+mov_tmdb_1311031,Haruo Sotozaki,1283010,Directing,Director,66e6e1483768a73f8d915c4a
+mov_tmdb_1087192,Dean DeBlois,69797,Directing,Director,63ed6bab813cb60096ab03ea
+mov_tmdb_911430,Joseph Kosinski,86270,Directing,Director,61aaacee4f3a4c005ef7834d
+mov_tmdb_1061474,James Gunn,15218,Directing,Director,640b67f83a4a1200ee543519
+mov_tmdb_575265,Christopher McQuarrie,9033,Directing,Director,5c3d2b05c3a36805733dbb50
+mov_tmdb_967941,Jon M. Chu,54507,Directing,Director,6268193519675700519fd7a8
+mov_tmdb_617126,Matt Shakman,1212522,Directing,Director,630747a2dcb6a300835876e5
+mov_tmdb_1038392,Michael Chaves,1607672,Directing,Director,65c6dd79d7107e0188efb57e
+mov_tmdb_1500536,Shen Ao,2421872,Directing,Director,68537431a1fabc54641c0b6f
+mov_tmdb_822119,Julius Onah,1301933,Directing,Director,62c88b41076ce8004e07fc11
+mov_tmdb_1368166,Paul Feig,116805,Directing,Director,67055a7a98df8ea0151d595d
+mov_tmdb_986056,Jake Schreier,836732,Directing,Director,62a25a2685005d0067643e67
+mov_tmdb_1233413,Ryan Coogler,1056121,Directing,Director,65aa9ecfd9542000c3215df6
+mov_tmdb_574475,Zach Lipovsky,1181022,Directing,Director,632e157855937b008e542f0c
+mov_tmdb_574475,Adam Stein,1938317,Directing,Director,632e15654c1bb0007f327912
+mov_tmdb_1078605,Zach Cregger,84833,Directing,Director,63d183639f51af00b67ca988
+mov_tmdb_425274,Ruben Fleischer,91268,Directing,Director,654fbce02866fa10928cffcf
+mov_tmdb_1175942,Pierre Perifel,1261455,Directing,Director,660322a060620a017c2f7c1c
+mov_tmdb_1228246,Emma Tammi,2103746,Directing,Director,670064f5f878adfed0853f42
+mov_tmdb_1054867,Paul Thomas Anderson,4762,Directing,Director,638604971b157d00b78764c6
+mov_tmdb_447273,Marc Webb,87742,Directing,Director,5cf223b70e0a261e1bcb8fb6
+mov_tmdb_1218925,Tatsuya Yoshihara,1286723,Directing,Director,676797d841db2b4b9c74a61a
+mov_tmdb_1317288,Josh Safdie,129561,Directing,Director,6695721304f885cbb6f53dde
+mov_tmdb_1242898,Dan Trachtenberg,568322,Directing,Director,65c6688594d8a8018312aad1
+mov_tmdb_1155281,Wuershan,232685,Directing,Director,64bcd7d0af85de00c662f3b5
+mov_tmdb_991494,Derek Drymon,70652,Directing,Director,644ad5090c125505147a8f3c
+mov_tmdb_1022787,Madeline Sharafian,1171950,Directing,Director,66d386c965e8b4fff8ae0dd4
+mov_tmdb_1022787,Domee Shi,2009739,Directing,Director,66d386c1a658ab22ebb6104f
+mov_tmdb_1022787,Adrian Molina,1684652,Directing,Director,68ab76f19f35787c88a9a280
+mov_tmdb_1125257,Nisha Ganatra,1239766,Directing,Director,660788e75900860130b60ef5
+mov_tmdb_1100988,Danny Boyle,2034,Directing,Director,64131684323eba010b92e48e
+mov_tmdb_774370,Peter Hastings,64149,Directing,Director,657a5aa1a1d332011b5093b5
+mov_tmdb_533533,Joachim Rønning,20307,Directing,Director,63c9802a25a5360085181bb5
+mov_tmdb_1272149,Michael Morris,1366450,Directing,Director,6615b7eb3d7454016208324b
+mov_tmdb_541671,Len Wiseman,3950,Directing,Director,5d9cce0cf96a39001bf669c9
+mov_tmdb_1291608,Aditya Dhar,2152816,Directing,Director,6646f07ebbf6feb1ac4c4425
+mov_tmdb_1234731,Tom Gormican,1211000,Directing,Director,65ae7e7825cd8500cb4e6fa3
+mov_tmdb_1379266,Sang-il Lee,142670,Directing,Director,6720a8e09ff681d9e0a4cb61
+mov_tmdb_696506,Bong Joon Ho,21684,Directing,Director,61e86453fdf8b700f54deae6
+mov_tmdb_1197137,Scott Derrickson,55499,Directing,Director,65679d1189d97f00ab168d9b
+mov_tmdb_936108,Chris Miller,12098,Directing,Director,62a8a4cc5a5ed0009a26ac6f
+mov_tmdb_1011477,Jonathan Entwistle,1674284,Directing,Director,655ce81a7f054018d344f35c
+mov_tmdb_1049574,James Cullen Bressack,1211636,Directing,Director,6375b19d5b2f47009ba86366
+mov_tmdb_1136867,Celine Song,2518227,Directing,Director,647f4ed0aede5901193eed65
+mov_tmdb_1289936,Simon Curtis,133502,Directing,Director,66426671c61a424a34e7f7bb
+mov_tmdb_858024,Chloé Zhao,1395183,Directing,Director,642c611701b1ca00b62ba072
+mov_tmdb_1377650,Yongchang Lin,2570215,Directing,Director,671d2649a4ac8a432c5c7721
+mov_tmdb_870028,Gavin O'Connor,77003,Directing,Director,61318d725ab81a0068bdf7b0
+mov_tmdb_1035259,Akiva Schaffer,62854,Directing,Director,6348e940b0460500791aced9
+mov_tmdb_1087891,James Hawes,30310,Directing,Director,63ef04dacddbbc0084b80f20
+mov_tmdb_1328803,Louis Mandylor,54649,Directing,Director,66ba209cb32715fc66257881
+mov_tmdb_1083637,Rishab Shetty,1752058,Directing,Director,63e1e3dbcb80280093e6cf80
+mov_tmdb_1327862,Josh Boone,1053420,Directing,Director,66b71a651771b6558ea7b321
+mov_tmdb_1197306,David Ayer,19769,Directing,Director,653c576e719aeb00ab2af19b
+mov_tmdb_1167307,Phil Cunningham,2838796,Directing,Director,64e1b3b34a52f800c7a35297
+mov_tmdb_1167307,Brent Dawes,2508883,Directing,Director,64e1b3beaaec7103f9986075
+mov_tmdb_1196943,Laxman Utekar,1118108,Directing,Director,653b9bb3cc968300c9e305fa
+mov_tmdb_1196943,Farhan Rana Rajpoot,6321600,Directing,Director,6a48b1a72b06d0294d9e67d0
+mov_tmdb_1181107,Jang Seong-ho,552390,Directing,Director,650aebf66c19ea00ca46c58d
+mov_tmdb_1280282,Ryan Crego,936667,Directing,Director,662ad45d764841011b2bf20d
+mov_tmdb_1472638,Gennaro Nunziante,120127,Directing,Director,6810c3a75ad0b67c66eb0a0a
+mov_tmdb_798645,Edgar Wright,11090,Directing,Director,60301b6106f984003eec519d
+mov_tmdb_1124620,Osgood Perkins,90609,Directing,Director,645a78b01b70ae00e2accdf0
+mov_tmdb_1083433,Jennifer Kaytin Robinson,1721377,Directing,Director,63e150174da3d4007fc4a144
+mov_tmdb_1241634,Mohit Suri,88800,Directing,Director,65c308a43fe7970148fdb0e3
+mov_tmdb_604079,Francis Lawrence,10943,Directing,Director,6567acc0021cee00e3942376
+mov_tmdb_604685,Christian Gudegast,54868,Directing,Director,5d3927f1ab684968b584c260
+mov_tmdb_1153399,Lokesh Kanagaraj,1592411,Directing,Director,64b67875ac416100ff21e9be
+mov_tmdb_1371185,Craig Brewer,53267,Directing,Director,670d4a439f3531e6b26bf823
+mov_tmdb_1232546,David F. Sandberg,1302082,Directing,Director,65a8660e2c6b7b012ba1afee
+mov_tmdb_1267905,Jay Roach,6737,Directing,Director,660b04eda0be28017d72552d
+mov_tmdb_1280672,Lawrence Lamont,3191031,Directing,Director,662bf85920e6a50125924912
+mov_tmdb_1305653,Fei Zhenxiang,1368274,Directing,Director,667011c74cfc345a67a6544f
+mov_tmdb_1305653,Guan Hu,131301,Directing,Director,667011bc8f25b219f9d1e0ed
+mov_tmdb_1693620,Santino Bucco,6056225,Directing,Director,6a039cba07e3e7a9639937c6
+mov_tmdb_1126166,Mel Gibson,2461,Directing,Director,645e98c16f6a99013f559dae
+mov_tmdb_1230368,Scott Cooper,65167,Directing,Director,65a1dc51d036b601236a12ea
+mov_tmdb_1408208,Genki Kawamura,237364,Directing,Director,67b74c24e484fc21541a26b8
+mov_tmdb_1233575,Steven Soderbergh,1884,Directing,Director,65ab0a557caa470132099a4a
+mov_tmdb_701387,Yorgos Lanthimos,122423,Directing,Director,65d33f237614210163ff6702

@@ -1,0 +1,5 @@
+movie_title,action,release_date,note
+Monster Hunt,update,2015-07-16,Correct original release year from 2016 source row to 2015.
+Raiders of the Lost Ark: The IMAX Experience,drop,,Remove IMAX re-release row from seed model.
+The Secret World of Arrietty,update,2010-07-17,Correct original release year from 2012 source row to 2010.
+Top Gun 3D,drop,,Remove 3D re-release row from seed model.

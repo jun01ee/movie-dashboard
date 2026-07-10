@@ -2,18 +2,18 @@ genre_key,genre_name
 gen_action,Action
 gen_adventure,Adventure
 gen_animation,Animation
-gen_biography,Biography
 gen_comedy,Comedy
 gen_crime,Crime
 gen_documentary,Documentary
 gen_drama,Drama
 gen_family,Family
 gen_fantasy,Fantasy
+gen_history,History
 gen_horror,Horror
-gen_musical,Musical
+gen_music,Music
 gen_mystery,Mystery
-gen_religious,Religious
 gen_romance,Romance
-gen_sci_fi,Sci-Fi
-gen_sports,Sports
+gen_science_fiction,Science Fiction
 gen_thriller,Thriller
+gen_war,War
+gen_western,Western

@@ -10,11 +10,26 @@ data/raw/Movie Data Starter Project.xlsx
 
 It is not committed because redistribution rights have not been confirmed.
 
+Manual corrections in `data/manual/movie_seed_corrections.csv` are applied when
+building `stg_movie_seed.csv`. They fix source release dates and remove
+re-release rows that should not be modeled as separate movies.
+
 ## TMDb
 
-TMDb is the planned first enrichment source for recent movie discovery, details, credits, genres, release dates, images, and external IDs.
+TMDb is the primary source for the expanded 2010-2025 dataset. The loader uses
+revenue-sorted discover results per release year and filters to released movies
+with title, release date, runtime, revenue, budget of at least `$1M`, genre,
+director, and cast. This is a clean dashboard sample, not a complete catalog.
 
-Store TMDb API responses under `data/raw/api_cache/`, which is ignored by git.
+Store TMDb API responses under `data/raw/api_cache/tmdb/`, which is ignored by git.
+
+Local API token setup:
+
+```text
+TMDB_BEARER_TOKEN=your_token_here
+```
+
+The pipeline writes publishable normalized CSVs under `data/processed/`.
 
 ## IMDb and Wikidata
 
