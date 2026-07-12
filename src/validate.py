@@ -3,6 +3,7 @@ from __future__ import annotations
 import pandas as pd
 
 from .paths import (
+    DIM_PERSON_DETAIL,
     PROCESSED_DIR,
     STG_MOVIE_SEED,
     STG_TMDB_MOVIE_CAST,
@@ -92,6 +93,47 @@ def main() -> None:
 
     poster_path = dim_movie.loc[present(dim_movie["poster_path"]), "poster_path"].astype(str)
     require(poster_path.str.startswith("/").all(), "poster_path must start with / where present")
+
+    person_profile_path = dim_person.loc[present(dim_person["profile_path"]), "profile_path"].astype(str)
+    require(
+        person_profile_path.str.startswith("/").all(),
+        "dim_person.profile_path must start with / where present",
+    )
+    person_profile_url = dim_person.loc[present(dim_person["profile_url"]), "profile_url"].astype(str)
+    require(
+        person_profile_url.str.startswith("https://image.tmdb.org/t/p/w185/").all(),
+        "dim_person.profile_url has invalid TMDb image URL",
+    )
+
+    person_detail = optional_csv(DIM_PERSON_DETAIL)
+    if not person_detail.empty:
+        require(person_detail["person_key"].is_unique, "dim_person_detail.person_key has duplicates")
+        require(
+            set(person_detail["person_key"]).issubset(person_keys),
+            "dim_person_detail has unknown person_key",
+        )
+        person_id_check = person_detail[["person_key", "tmdb_person_id"]].merge(
+            dim_person[["person_key", "tmdb_person_id"]],
+            on="person_key",
+            suffixes=("_detail", "_dim"),
+        )
+        require(
+            pd.to_numeric(person_id_check["tmdb_person_id_detail"]).equals(
+                pd.to_numeric(person_id_check["tmdb_person_id_dim"])
+            ),
+            "dim_person_detail.tmdb_person_id does not match dim_person",
+        )
+        require(
+            set(person_detail["gender_code"].dropna().astype(int)).issubset({0, 1, 2, 3}),
+            "dim_person_detail has invalid gender_code",
+        )
+        detail_profile_url = person_detail.loc[
+            present(person_detail["profile_url"]), "profile_url"
+        ].astype(str)
+        require(
+            detail_profile_url.str.startswith("https://image.tmdb.org/t/p/w185/").all(),
+            "dim_person_detail.profile_url has invalid TMDb image URL",
+        )
 
     for path in [STG_TMDB_MOVIE_DETAILS, STG_TMDB_MOVIE_CAST, STG_TMDB_MOVIE_CREW]:
         stage = optional_csv(path)

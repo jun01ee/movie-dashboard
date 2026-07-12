@@ -18,8 +18,9 @@ from .tmdb_client import TMDbClient
 
 START_YEAR = 2010
 END_YEAR = 2025
-# ponytail: top 100 revenue-sorted movies/year is a clean dashboard sample, not a completeness claim.
-PAGES_PER_YEAR = 5
+# ponytail: clean depth target, not completeness; raise MAX_PAGES if a year cannot reach target.
+TARGET_MOVIES_PER_YEAR = 150
+MAX_PAGES_PER_YEAR = 15
 MAX_GENRES = 6
 MAX_DIRECTORS = 2
 MAX_CAST = 5
@@ -130,12 +131,14 @@ def main() -> None:
 
     for year in range(START_YEAR, END_YEAR + 1):
         accepted_before = len(seed_rows)
-        for page in range(1, PAGES_PER_YEAR + 1):
+        for page in range(1, MAX_PAGES_PER_YEAR + 1):
             discovered = client.discover_movies(year, page)
             results = discovered.get("results") or []
             if not results:
                 break
             for result in results:
+                if len(seed_rows) - accepted_before >= TARGET_MOVIES_PER_YEAR:
+                    break
                 tmdb_id = result.get("id")
                 if not tmdb_id or tmdb_id in seen_tmdb_ids:
                     continue
@@ -150,6 +153,8 @@ def main() -> None:
                 detail_rows.append(detail_row(movie_key, detail))
                 cast_output.extend(cast_rows(movie_key, detail))
                 crew_output.extend(crew_rows(movie_key, detail))
+            if len(seed_rows) - accepted_before >= TARGET_MOVIES_PER_YEAR:
+                break
 
         print(f"{year}: accepted {len(seed_rows) - accepted_before} movies")
 

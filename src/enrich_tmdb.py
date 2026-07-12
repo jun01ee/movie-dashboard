@@ -21,6 +21,22 @@ def norm(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
 
 
+def present(value: object) -> bool:
+    return pd.notna(value) and str(value).strip() and str(value).strip().lower() != "nan"
+
+
+def clean_tmdb_id(value: object) -> int | None:
+    if not present(value):
+        return None
+    return int(float(str(value).strip()))
+
+
+def single_line(value: object) -> str:
+    if not present(value):
+        return ""
+    return re.sub(r"[\r\n]+", " ", str(value)).strip()
+
+
 def clean_names(values: list[object]) -> set[str]:
     names = set()
     for value in values:
@@ -123,10 +139,10 @@ def detail_row(movie_key: str, detail: dict) -> dict:
         "original_title": detail.get("original_title") or "",
         "runtime_minutes": detail.get("runtime") or "",
         "original_language": detail.get("original_language") or "",
-        "overview": detail.get("overview") or "",
+        "overview": single_line(detail.get("overview")),
         "poster_path": detail.get("poster_path") or "",
         "homepage": detail.get("homepage") or "",
-        "tagline": detail.get("tagline") or "",
+        "tagline": single_line(detail.get("tagline")),
         "status": detail.get("status") or "",
         "tmdb_popularity": detail.get("popularity") or "",
         "tmdb_vote_average": detail.get("vote_average") or "",
@@ -142,6 +158,7 @@ def cast_rows(movie_key: str, detail: dict) -> list[dict]:
                 "movie_key": movie_key,
                 "person_name": cast.get("name") or "",
                 "tmdb_person_id": cast.get("id") or "",
+                "profile_path": cast.get("profile_path") or "",
                 "character_name": cast.get("character") or "",
                 "credit_order": cast.get("order") if cast.get("order") is not None else "",
                 "tmdb_credit_id": cast.get("credit_id") or "",
@@ -160,6 +177,7 @@ def crew_rows(movie_key: str, detail: dict) -> list[dict]:
                 "movie_key": movie_key,
                 "person_name": crew.get("name") or "",
                 "tmdb_person_id": crew.get("id") or "",
+                "profile_path": crew.get("profile_path") or "",
                 "department": crew.get("department") or "",
                 "job": crew.get("job") or "",
                 "tmdb_credit_id": crew.get("credit_id") or "",
@@ -203,6 +221,12 @@ def main() -> None:
         tmdb_id = manual_ids.get(row.movie_key)
         status = "manual" if tmdb_id else ""
         confidence = "manual" if tmdb_id else ""
+
+        if not tmdb_id:
+            tmdb_id = clean_tmdb_id(row.tmdb_id)
+            if tmdb_id:
+                status = row.match_status if present(row.match_status) else "matched"
+                confidence = row.match_confidence if present(row.match_confidence) else "existing_tmdb_id"
 
         if not tmdb_id:
             search = client.search_movie(str(row.movie_title), int(row.release_year))
@@ -279,6 +303,7 @@ def main() -> None:
             "movie_key",
             "person_name",
             "tmdb_person_id",
+            "profile_path",
             "character_name",
             "credit_order",
             "tmdb_credit_id",
@@ -290,6 +315,7 @@ def main() -> None:
             "movie_key",
             "person_name",
             "tmdb_person_id",
+            "profile_path",
             "department",
             "job",
             "tmdb_credit_id",

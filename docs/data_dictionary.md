@@ -57,7 +57,11 @@ Grain: one row per person.
 
 - `person_key`: stable person key.
 - `person_name`: display name.
-- `tmdb_person_id`, `imdb_name_id`: reserved API enrichment IDs.
+- `tmdb_person_id`, `imdb_name_id`: external person IDs.
+- `tmdb_person_url`: TMDb person page URL.
+- `profile_path`: TMDb profile image path, blank when no image is available.
+- `profile_url`: full TMDb profile image URL for Power BI image visuals.
+- `profile_image_available`: boolean flag for profile image fallback handling.
 
 ## `bridge_movie_credit.csv`
 
@@ -70,6 +74,17 @@ Grain: one row per movie/person credit.
 - `character_name`: reserved for cast enrichment.
 - `billing_order`: source order within the director or cast columns.
 - `tmdb_credit_id`, `tmdb_person_id`, `credit_order`: TMDb enrichment fields.
+
+## `dim_person_detail.csv`
+
+Grain: zero or one enrichment row per person in `dim_person`.
+
+- `person_key`: joins to `dim_person` in a one-to-zero-or-one relationship.
+- `tmdb_person_id`: TMDb person identifier used to fetch the details.
+- `biography`, `biography_available`: biography text and missing-value flag.
+- `birthday`, `deathday`, `place_of_birth`: biographical attributes.
+- `gender_code`, `gender_label`: TMDb gender code and report-friendly label.
+- `profile_path`, `profile_url`, `profile_image_available`: profile image fields and fallback flag.
 
 ## `dim_date.csv`
 
@@ -98,9 +113,11 @@ TMDb detail, image, rating, runtime, language, and external-ID fields used to en
 Grain: one row per TMDb cast credit.
 
 Used to fill actor character names, TMDb person IDs, and credit order.
+Also carries TMDb profile image paths for `dim_person`.
 
 ## `stg_tmdb_movie_crew.csv`
 
 Grain: one row per TMDb director credit.
 
 Used to fill director TMDb person IDs and credit IDs.
+Also carries TMDb profile image paths for `dim_person`.

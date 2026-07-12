@@ -36,8 +36,14 @@ class TMDbClient:
             "Authorization": f"Bearer {self.token}",
             "accept": "application/json",
         }
+        last_error = None
         for attempt in range(3):
-            response = requests.get(url, headers=headers, params=params, timeout=30)
+            try:
+                response = requests.get(url, headers=headers, params=params, timeout=30)
+            except requests.RequestException as error:
+                last_error = error
+                time.sleep(2 + attempt)
+                continue
             if response.status_code != 429:
                 response.raise_for_status()
                 data = response.json()
@@ -45,6 +51,8 @@ class TMDbClient:
                 return data
             time.sleep(int(response.headers.get("Retry-After", "2")) + attempt)
 
+        if last_error is not None:
+            raise last_error
         response.raise_for_status()
         raise RuntimeError("unreachable")
 
@@ -74,6 +82,9 @@ class TMDbClient:
             {"append_to_response": "credits,external_ids"},
             "movie_details",
         )
+
+    def person_details(self, tmdb_person_id: int) -> dict[str, Any]:
+        return self.get(f"person/{tmdb_person_id}", cache_prefix="person_details")
 
     def _cache_path(
         self, endpoint: str, params: dict[str, Any], cache_prefix: str

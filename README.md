@@ -1,11 +1,104 @@
 # Movie Dashboard
 
-Personal, non-commercial movie dashboard project.
+Personal, non-commercial movie analytics project for Power BI. The work started
+from a [Kaggle starter Excel workbook](https://www.kaggle.com/datasets/derrickmallison/movie-data-starter-project-pivot-table-and-chart),
+used it to design the semantic model, then expanded and enriched the dataset
+with the TMDb API.
 
-This repo builds a simple semantic movie dataset for Power BI. The current
-pipeline uses TMDb as the primary source, keeps a clean movie sample from 2010
-through 2025, normalizes it into star-schema CSV tables, and avoids internal
-duplicate movies by using TMDb IDs.
+## Results
+
+Power BI report link: _to be added_
+
+Dashboard screenshot: _to be added at `docs/dashboard.png`_
+
+## Current Dataset
+
+The current generated dataset contains a clean TMDb movie sample for release
+years `2010-2025`.
+
+- Movies: `2,371`
+- Target depth: `150` clean, revenue-sorted movies per year
+- Current exception: `2020` has `121` movies after cleaning filters
+- Deduplication: one movie per `tmdb_id`
+- Minimum budget: `$1M`
+- Required fields: title, release date, runtime, revenue, budget, genre,
+  director, and cast
+
+## Data Model
+
+Power BI should load these CSVs from `data/processed/`:
+
+- `dim_movie.csv`
+- `fact_movie_performance.csv`
+- `dim_genre.csv`
+- `bridge_movie_genre.csv`
+- `dim_person.csv`
+- `dim_person_detail.csv`
+- `bridge_movie_credit.csv`
+- `dim_date.csv`
+
+Optional QA/reference table:
+
+- `movie_identity_map.csv`
+
+The model is a simple star schema centered on `movie_key`, with bridge tables
+for movie/genre and movie/person relationships.
+
+## Approach
+
+The primary pipeline uses TMDb as the source for movie discovery, details,
+credits, external IDs, posters, person profile images, runtime, ratings, budget,
+and revenue. It pulls revenue-sorted discover results for each year, keeps rows
+that pass the cleaning rules above, caches raw API JSON locally, and writes
+normalized CSVs for Power BI.
+
+The original starter Excel workbook loader is still available for comparison or
+backfill work, but the dashboard dataset is now TMDb-first.
+
+Detailed source notes and table definitions live in:
+
+- `docs/source_notes.md`
+- `docs/data_dictionary.md`
+
+## Run Pipeline
+
+Use a dedicated Conda/Mamba environment instead of base Python.
+
+```bash
+mamba env create -f environment.yml
+conda activate movie-dashboard
+```
+
+Add your TMDb bearer token to a local `.env` file:
+
+```text
+TMDB_BEARER_TOKEN=your_token_here
+```
+
+Generate the TMDb dataset and model CSVs:
+
+```bash
+python -m src.load_tmdb_seed
+python -m src.build_model
+python -m src.enrich_tmdb
+python -m src.build_model
+python -m src.enrich_tmdb_people
+python -m src.validate
+```
+
+Optional starter workbook path:
+
+```text
+data/raw/Movie Data Starter Project.xlsx
+```
+
+Optional starter workbook commands:
+
+```bash
+python -m src.load_seed
+python -m src.build_model
+python -m src.validate
+```
 
 ## Project Layout
 
@@ -17,102 +110,10 @@ notebooks/       optional exploration
 src/             reproducible pipeline scripts
 ```
 
-## Environment
+## Reproducibility Notes
 
-Use a dedicated Conda/Mamba environment instead of base Python.
-
-```bash
-mamba env create -f environment.yml
-conda activate movie-dashboard
-```
-
-Conda works too:
-
-```bash
-conda env create -f environment.yml
-conda activate movie-dashboard
-```
-
-## Run Pipeline
-
-Add your TMDb bearer token to a local `.env` file:
-
-```text
-TMDB_BEARER_TOKEN=your_token_here
-```
-
-Then run:
-
-```bash
-python -m src.load_tmdb_seed
-python -m src.build_model
-python -m src.validate
-```
-
-`src.load_tmdb_seed` pulls a revenue-sorted sample for each release year from
-2010 through 2025. It does not claim completeness. It keeps rows only when the
-movie has enough clean dashboard fields: title, release date, runtime, positive
-revenue, budget of at least `$1M`, genre, director, and cast.
-
-## Starter Workbook Loader
-
-The original starter workbook loader is still available for comparison or
-backfill work. Place the workbook here:
-
-```text
-data/raw/Movie Data Starter Project.xlsx
-```
-
-Then run:
-
-```bash
-python -m src.load_seed
-python -m src.build_model
-python -m src.validate
-```
-
-## TMDb Enrichment
-
-TMDb API JSON is cached under `data/raw/api_cache/tmdb/`. The primary TMDb
-loader writes these staging CSVs directly:
-
-- `stg_tmdb_movie_details.csv`
-- `stg_tmdb_movie_cast.csv`
-- `stg_tmdb_movie_crew.csv`
-
-Manual TMDb match overrides for workbook-sourced rows live in:
-
-```text
-data/manual/tmdb_movie_matches.csv
-```
-
-Use that file only when automatic matching marks a movie as `needs_review` or
-`unmatched`.
-
-## Data Model
-
-The processed CSVs use a small star schema:
-
-- `dim_movie.csv`
-- `fact_movie_performance.csv`
-- `dim_genre.csv`
-- `bridge_movie_genre.csv`
-- `dim_person.csv`
-- `bridge_movie_credit.csv`
-- `dim_date.csv`
-- `movie_identity_map.csv`
-
-Power BI should import `data/processed/*.csv`, relate facts and bridges to the dimensions, and build measures for movie count, budget, revenue, profit, ROI, and revenue multiple.
-
-## Enrichment Roadmap
-
-TMDb is the first enrichment source for movie details, credits, character names,
-images, and external IDs. IMDb and Wikidata can be added as crosswalk/support
-sources. Raw API responses should stay in `data/raw/api_cache/` and should not
-be committed.
-
-## Dashboard
-
-Power BI dashboard link: _to be added_
-
-Dashboard screenshot: _to be added at `docs/dashboard.png`_
+- `.env` is required locally and must contain `TMDB_BEARER_TOKEN`.
+- `data/raw/` and the TMDb API cache are ignored by git.
+- Generated publishable CSVs are written to `data/processed/`.
+- The raw starter workbook is not committed because redistribution rights are
+  unclear.

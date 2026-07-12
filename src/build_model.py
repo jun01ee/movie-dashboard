@@ -17,6 +17,8 @@ from .paths import (
 )
 
 
+PROFILE_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w185"
+
 DETAIL_COLUMNS = [
     "tmdb_id",
     "imdb_id",
@@ -82,9 +84,41 @@ def read_optional_csv(path, columns: list[str]) -> pd.DataFrame:
     if not path.exists():
         return pd.DataFrame(columns=columns)
     try:
-        return pd.read_csv(path)
+        df = pd.read_csv(path)
+        for col in columns:
+            if col not in df.columns:
+                df[col] = pd.NA
+        return df
     except EmptyDataError:
         return pd.DataFrame(columns=columns)
+
+
+def is_present(series: pd.Series) -> pd.Series:
+    values = series.fillna("").astype(str).str.strip()
+    return values.ne("") & values.str.lower().ne("nan")
+
+
+def clean_tmdb_id(value: object) -> str:
+    if pd.isna(value):
+        return ""
+    text = str(value).strip()
+    if not text or text.lower() == "nan":
+        return ""
+    return str(int(float(text))) if re.fullmatch(r"\d+(\.0)?", text) else text
+
+
+def profile_url(profile_path: object) -> str:
+    if pd.isna(profile_path):
+        return ""
+    path = str(profile_path).strip()
+    if not path or path.lower() == "nan":
+        return ""
+    return f"{PROFILE_IMAGE_BASE_URL}/{path.lstrip('/')}"
+
+
+def tmdb_person_url(tmdb_person_id: object) -> str:
+    person_id = clean_tmdb_id(tmdb_person_id)
+    return f"https://www.themoviedb.org/person/{person_id}" if person_id else ""
 
 
 def apply_movie_updates(
@@ -100,6 +134,17 @@ def apply_movie_updates(
             merged[col] = merged[new_col].combine_first(merged[col])
             merged = merged.drop(columns=[new_col])
     return merged
+
+
+def sanitize_text_for_csv(df: pd.DataFrame) -> pd.DataFrame:
+    output = df.copy()
+    for col in output.select_dtypes(include=["object", "string"]).columns:
+        output[col] = output[col].map(
+            lambda value: re.sub(r"[\r\n]+", " ", value).strip()
+            if isinstance(value, str)
+            else value
+        )
+    return output
 
 
 def read_seed() -> pd.DataFrame:
@@ -253,6 +298,10 @@ def build_people(seed: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     )
     dim["tmdb_person_id"] = ""
     dim["imdb_name_id"] = ""
+    dim["profile_path"] = ""
+    dim["profile_url"] = ""
+    dim["profile_image_available"] = False
+    dim["tmdb_person_url"] = ""
     bridge["tmdb_credit_id"] = ""
     bridge["tmdb_person_id"] = ""
     bridge["credit_order"] = pd.NA
@@ -268,6 +317,7 @@ def apply_tmdb_credit_enrichment(
             "movie_key",
             "person_name",
             "tmdb_person_id",
+            "profile_path",
             "character_name",
             "credit_order",
             "tmdb_credit_id",
@@ -279,6 +329,7 @@ def apply_tmdb_credit_enrichment(
             "movie_key",
             "person_name",
             "tmdb_person_id",
+            "profile_path",
             "department",
             "job",
             "tmdb_credit_id",
@@ -289,8 +340,19 @@ def apply_tmdb_credit_enrichment(
 
     dim_lookup = dim_person[["person_key", "person_name"]].copy()
     dim_lookup["name_key"] = dim_lookup["person_name"].map(norm)
-    bridge = bridge.merge(dim_lookup[["person_key", "person_name", "name_key"]], on="person_key", how="left")
-    for col in ["character_name", "tmdb_person_id", "tmdb_credit_id", "credit_order"]:
+    bridge = bridge.merge(
+        dim_lookup[["person_key", "person_name", "name_key"]],
+        on="person_key",
+        how="left",
+    )
+    bridge["profile_path"] = ""
+    for col in [
+        "character_name",
+        "tmdb_person_id",
+        "tmdb_credit_id",
+        "credit_order",
+        "profile_path",
+    ]:
         bridge[col] = bridge[col].astype("object")
 
     if not cast.empty:
@@ -304,6 +366,7 @@ def apply_tmdb_credit_enrichment(
                     "name_key",
                     "character_name",
                     "tmdb_person_id",
+                    "profile_path",
                     "tmdb_credit_id",
                     "credit_order",
                 ]
@@ -313,7 +376,13 @@ def apply_tmdb_credit_enrichment(
             suffixes=("", "_tmdb"),
         )
         actor_mask = bridge["job"].eq("Actor")
-        for col in ["character_name", "tmdb_person_id", "tmdb_credit_id", "credit_order"]:
+        for col in [
+            "character_name",
+            "tmdb_person_id",
+            "tmdb_credit_id",
+            "credit_order",
+            "profile_path",
+        ]:
             new_col = f"{col}_tmdb"
             if new_col in bridge:
                 bridge.loc[actor_mask, col] = bridge.loc[actor_mask, new_col].combine_first(
@@ -326,13 +395,22 @@ def apply_tmdb_credit_enrichment(
         crew_updates["name_key"] = crew_updates["person_name"].fillna("").map(norm)
         crew_updates = crew_updates.drop_duplicates(["movie_key", "name_key", "job"])
         bridge = bridge.merge(
-            crew_updates[["movie_key", "name_key", "job", "tmdb_person_id", "tmdb_credit_id"]],
+            crew_updates[
+                [
+                    "movie_key",
+                    "name_key",
+                    "job",
+                    "tmdb_person_id",
+                    "profile_path",
+                    "tmdb_credit_id",
+                ]
+            ],
             on=["movie_key", "name_key", "job"],
             how="left",
             suffixes=("", "_tmdb"),
         )
         director_mask = bridge["job"].eq("Director")
-        for col in ["tmdb_person_id", "tmdb_credit_id"]:
+        for col in ["tmdb_person_id", "tmdb_credit_id", "profile_path"]:
             new_col = f"{col}_tmdb"
             if new_col in bridge:
                 bridge.loc[director_mask, col] = bridge.loc[director_mask, new_col].combine_first(
@@ -340,18 +418,42 @@ def apply_tmdb_credit_enrichment(
                 )
                 bridge = bridge.drop(columns=[new_col])
 
-    person_ids = (
-        bridge.loc[bridge["tmdb_person_id"].notna() & (bridge["tmdb_person_id"].astype(str) != "")]
-        [["person_key", "tmdb_person_id"]]
-        .drop_duplicates("person_key")
-    )
-    if not person_ids.empty:
-        dim_person = dim_person.drop(columns=["tmdb_person_id"]).merge(
-            person_ids, on="person_key", how="left"
+    person_updates = bridge.loc[
+        bridge["tmdb_person_id"].notna() & bridge["tmdb_person_id"].astype(str).ne(""),
+        ["person_key", "tmdb_person_id", "profile_path"],
+    ].copy()
+    if not person_updates.empty:
+        person_updates["has_profile_path"] = is_present(person_updates["profile_path"])
+        person_updates = (
+            person_updates.sort_values("has_profile_path", ascending=False)
+            .drop_duplicates("person_key")
+            .drop(columns=["has_profile_path"])
+        )
+        dim_person = dim_person.drop(columns=["tmdb_person_id", "profile_path"]).merge(
+            person_updates, on="person_key", how="left"
         )
         dim_person["tmdb_person_id"] = dim_person["tmdb_person_id"].fillna("")
+        dim_person["profile_path"] = dim_person["profile_path"].fillna("")
 
-    return dim_person, bridge.drop(columns=["person_name", "name_key"])
+    dim_person["tmdb_person_id"] = dim_person["tmdb_person_id"].map(clean_tmdb_id)
+    dim_person["profile_url"] = dim_person["profile_path"].map(profile_url)
+    dim_person["profile_image_available"] = is_present(dim_person["profile_path"])
+    dim_person["tmdb_person_url"] = dim_person["tmdb_person_id"].map(tmdb_person_url)
+
+    dim_person = dim_person[
+        [
+            "person_key",
+            "person_name",
+            "imdb_name_id",
+            "tmdb_person_id",
+            "tmdb_person_url",
+            "profile_path",
+            "profile_url",
+            "profile_image_available",
+        ]
+    ]
+
+    return dim_person, bridge.drop(columns=["person_name", "name_key", "profile_path"])
 
 
 def build_dim_date(seed: pd.DataFrame) -> pd.DataFrame:
@@ -392,7 +494,7 @@ def build_identity_map(seed: pd.DataFrame) -> pd.DataFrame:
 
 def write_csv(name: str, df: pd.DataFrame) -> None:
     path = PROCESSED_DIR / name
-    df.to_csv(path, index=False)
+    sanitize_text_for_csv(df).to_csv(path, index=False)
     print(f"Wrote {path} ({len(df)} rows)")
 
 
