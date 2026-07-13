@@ -3,9 +3,9 @@
 A personal, non-commercial Power BI portfolio project that turns a movie
 spreadsheet exercise into a reproducible analytics pipeline and semantic model.
 The project began with a
-[Kaggle starter Excel workbook](https://www.kaggle.com/datasets/derrickmallison/movie-data-starter-project-pivot-table-and-chart),
+[multi-page starter Excel workbook](https://www.kaggle.com/datasets/derrickmallison/movie-data-starter-project-pivot-table-and-chart) with only ~500 movies,
 restructured its data into fact and dimension tables, and then expanded and
-enriched the dataset with the TMDb API.
+enriched the dataset with the [The Movie Database (TMDb)](https://www.themoviedb.org/) API. The current analytical sample contains 2,371 movies released from 2010 to 2025 and 7,007 credited people.
 
 ## Dashboard
 
@@ -56,16 +56,19 @@ poster without requiring a separate report page.*
 
 ```mermaid
 block-beta
-    columns 5
-    A["Kaggle starter Excel"] space B["Cleaned and restructured tables"] space C["Fact-dimension semantic model"]
-    space space space space space
-    F["Power BI report"] space E["TMDb person-detail enrichment"] space D["TMDb movie expansion and enrichment"]
+    columns 7
+    space A["Kaggle starter<br/>Excel"] space B["Cleaned and<br/>restructured tables"] space C["Fact-dimension<br/>semantic model"] space
+    space space space space space space space
+    space F["Power BI<br/>report"] space E["TMDb person-detail<br/>enrichment"] space D["TMDb movie expansion<br/>and enrichment"] space
 
     A --> B
     B --> C
     C --> D
     D --> E
     E --> F
+
+    classDef phase font-size:18px
+    class A,B,C,D,E,F phase
 ```
 
 The project was developed in phases:
