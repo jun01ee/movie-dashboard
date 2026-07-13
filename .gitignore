@@ -5,7 +5,7 @@ __pycache__/
 .codex_tmp/
 
 data/raw/
+assets/logo/
 
-*.pbix
 *.pbit
 *.tmp
